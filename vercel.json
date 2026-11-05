@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "vite",
-  "buildCommand": "VITE_APP_TITLE='Sports App Demo' npm run build",
-  "outputDirectory": "dist"
+  "buildCommand": "VITE_EDITION=junior VITE_APP_TITLE='Junior FC Sports App Demo' npm run build:junior",
+  "outputDirectory": "dist-junior"
 }
