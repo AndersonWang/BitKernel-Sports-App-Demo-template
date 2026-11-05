@@ -1,0 +1,174 @@
+{
+ "$about": "Junior FC edition: extra text for the Junior theme, layered on src/tokens/theme-text.json (Conor's pack). Team-specific values for fields and pages the pack doesn't cover. Items marked in HANDOFF need client confirmation.",
+ "Junior de Barranquilla (Light)": {
+  "copy": {
+   "team.full": "Junior de Barranquilla",
+   "team.second": "Junior Sub-20",
+   "team.fans": "Junioristas",
+   "stadium": "Metropolitano",
+   "team.hashtags": "#JuniorFC #LosTiburones",
+   "home.slogan": "¡Junior, tu papá!",
+   "player.name": "Daniel Rivera",
+   "watch.show": "Junior Tonight",
+   "watch.channel": "Junior TV",
+   "community.stars": "Daniel Rivera, Mateo Silva, Lucas Moreno",
+   "fanclub.prefix": "Peña Juniorista",
+   "home.voting.title": "Reina Rojiblanca 2026",
+   "voting.candidate": "Sofía Reyes",
+   "user.name": "tiburon_rojiblanco92"
+  },
+  "before": [
+   [
+    "Ciudad Deportiva Luis del Sol",
+    "Junior Training Ground"
+   ],
+   [
+    "Chicureo",
+    "Cartagena"
+   ],
+   [
+    "Féminas",
+    "Femenino"
+   ],
+   [
+    "Tag a Bético",
+    "Tag a Juniorista"
+   ],
+   [
+    "💚🤍",
+    "❤️🤍"
+   ],
+   [
+    "the whole city turning green and white",
+    "the whole city turning red and white"
+   ],
+   [
+    "in green and white",
+    "in red and white"
+   ],
+   [
+    "Green-and-white pride",
+    "Red-and-white pride"
+   ],
+   [
+    "Aitor Ruibal never stops",
+    "Our winger never stops"
+   ],
+   [
+    "Keep going, Aitor.",
+    "Keep going."
+   ],
+   [
+    "Watching Isco on the ball",
+    "Watching our number 10 on the ball"
+   ],
+   [
+    "#Isco",
+    "#Tiburones"
+   ],
+   [
+    "Isco 62′",
+    "Goal 62′"
+   ],
+   [
+    "Antony 12′",
+    "Goal 12′"
+   ],
+   [
+    "Benito Villamarín Stadium Tour",
+    "Metropolitano Stadium Tour"
+   ],
+   [
+    "the Benito Villamarín",
+    "the Metropolitano"
+   ],
+   [
+    "Reborn in Verdiblanco",
+    "Reborn in Rojiblanco"
+   ],
+   [
+    "Atlético de Madrid",
+    "Atlético Nacional"
+   ],
+   [
+    "#ManquePierda",
+    "#LosTiburones"
+   ],
+   [
+    "#BeticosPorElMundo",
+    "#JunioristasEnElMundo"
+   ],
+   [
+    "in Seville",
+    "in Barranquilla"
+   ]
+  ],
+  "after": [
+   [
+    "vs Sevilla",
+    "vs Unión Magdalena"
+   ],
+   [
+    "0 Sevilla",
+    "0 Unión Magdalena"
+   ],
+   [
+    "Champions League",
+    "Copa Libertadores"
+   ],
+   [
+    "Béticos",
+    "Junioristas"
+   ],
+   [
+    "Bético",
+    "Juniorista"
+   ]
+  ],
+  "lists": {
+   "fanclubs": [
+    [
+     "de Bogotá",
+     "Bogotá",
+     "1,320",
+     true
+    ],
+    [
+     "El Prado",
+     "Barranquilla",
+     "2,140"
+    ],
+    [
+     "Barrio Abajo",
+     "Barranquilla",
+     "1,860"
+    ],
+    [
+     "de Medellín",
+     "Medellín",
+     "980"
+    ],
+    [
+     "de Bogotá",
+     "Bogotá",
+     "1,320"
+    ],
+    [
+     "de Santa Marta",
+     "Santa Marta",
+     "870"
+    ],
+    [
+     "de Cartagena",
+     "Cartagena",
+     "640"
+    ],
+    [
+     "New York",
+     "New York",
+     "444"
+    ]
+   ]
+  }
+ }
+}

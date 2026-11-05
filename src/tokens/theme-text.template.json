@@ -1,0 +1,174 @@
+{
+ "$about": "Template build: extra text for themes, layered on src/tokens/theme-text.json (Conor's pack). Generic, non-team-specific values for fields and pages the pack doesn't cover. 'before' rules run before the pack's rules, 'after' rules after.",
+ "Junior de Barranquilla (Light)": {
+  "copy": {
+   "team.full": "Junior FC",
+   "team.second": "Junior FC Academy",
+   "team.fans": "Fans",
+   "stadium": "Home Stadium",
+   "team.hashtags": "#MatchDay #FanZone",
+   "home.slogan": "One club. One city. Every match.",
+   "player.name": "Daniel Rivera",
+   "watch.show": "Matchday Tonight",
+   "watch.channel": "Club TV",
+   "community.stars": "Daniel Rivera, Mateo Silva, Lucas Moreno",
+   "fanclub.prefix": "Supporters Club",
+   "home.voting.title": "Fan Favourite 2026",
+   "voting.candidate": "Sofía Reyes",
+   "user.name": "matchday_fan95"
+  },
+  "before": [
+   [
+    "Ciudad Deportiva Luis del Sol",
+    "Club Training Ground"
+   ],
+   [
+    "Chicureo",
+    "Santiago"
+   ],
+   [
+    "Féminas",
+    "Women"
+   ],
+   [
+    "Tag a Bético",
+    "Tag a fan"
+   ],
+   [
+    "💚🤍",
+    "⚽"
+   ],
+   [
+    "the whole city turning green and white",
+    "the whole city in club colours"
+   ],
+   [
+    "in green and white",
+    "in our colours"
+   ],
+   [
+    "Green-and-white pride",
+    "Club pride"
+   ],
+   [
+    "Aitor Ruibal never stops",
+    "Our winger never stops"
+   ],
+   [
+    "Keep going, Aitor.",
+    "Keep going."
+   ],
+   [
+    "Watching Isco on the ball",
+    "Watching our number 10 on the ball"
+   ],
+   [
+    "#Isco",
+    "#Number10"
+   ],
+   [
+    "Isco 62′",
+    "Goal 62′"
+   ],
+   [
+    "Antony 12′",
+    "Goal 12′"
+   ],
+   [
+    "Benito Villamarín Stadium Tour",
+    "Stadium Tour"
+   ],
+   [
+    "the Benito Villamarín",
+    "the stadium"
+   ],
+   [
+    "Reborn in Verdiblanco",
+    "Reborn at the Club"
+   ],
+   [
+    "Atlético de Madrid",
+    "City Rivals"
+   ],
+   [
+    "#ManquePierda",
+    "#MatchDay"
+   ],
+   [
+    "#BeticosPorElMundo",
+    "#FansWorldwide"
+   ],
+   [
+    "in Seville",
+    "in their city"
+   ]
+  ],
+  "after": [
+   [
+    "vs Sevilla",
+    "vs Rivals"
+   ],
+   [
+    "0 Sevilla",
+    "0 Rivals"
+   ],
+   [
+    "Champions League",
+    "Copa Libertadores"
+   ],
+   [
+    "Béticos",
+    "Fans"
+   ],
+   [
+    "Bético",
+    "Fan"
+   ]
+  ],
+  "lists": {
+   "fanclubs": [
+    [
+     "North Stand",
+     "Home City",
+     "1,320",
+     true
+    ],
+    [
+     "Riverside",
+     "Home City",
+     "2,140"
+    ],
+    [
+     "Old Town",
+     "Home City",
+     "1,860"
+    ],
+    [
+     "Capital",
+     "Capital City",
+     "980"
+    ],
+    [
+     "East End",
+     "Home City",
+     "1,320"
+    ],
+    [
+     "Coast",
+     "Coast City",
+     "870"
+    ],
+    [
+     "South",
+     "South City",
+     "640"
+    ],
+    [
+     "New York",
+     "New York",
+     "444"
+    ]
+   ]
+  }
+ }
+}

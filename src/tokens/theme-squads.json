@@ -1,0 +1,39 @@
+{
+ "$about": "Per-theme squad names and bench photos for Pre-game Stats › Squads (keys = squad image names; bench-<row>). Ported from a hand edit published to the Junior FC artifact on 4 Nov (version 1793826382). Bench row 3 (bench-2) added from a second hand edit (version 1793827126).",
+ "Junior de Barranquilla (Light)": {
+  "names": {
+   "home-d1": "Pena",
+   "home-d2": "Rivera",
+   "home-d3": "C. Perez",
+   "home-d4": "Ortiz",
+   "home-f1": "Canchimbo",
+   "home-f2": "Chara",
+   "home-f3": "K. Perez",
+   "home-gk": "Silveira",
+   "home-m1": "Rivas",
+   "home-m2": "Celis",
+   "home-m3": "Angel",
+   "bench-0": "Rios",
+   "bench-1": "Rios",
+   "bench-2": "Rios",
+   "bench-3": "Rios",
+   "bench-4": "Rios",
+   "bench-5": "Rios",
+   "bench-6": "Rios",
+   "bench-7": "Rios",
+   "bench-8": "Rios",
+   "coach-home": "Viera"
+  },
+  "benchImg": {
+   "0": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "1": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "2": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "3": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "4": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "5": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "6": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "7": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png",
+   "8": "assets/themes/junior-de-barranquilla-light/fixtures/squads/bench-home-1.png"
+  }
+ }
+}

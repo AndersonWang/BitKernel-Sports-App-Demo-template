@@ -1,0 +1,13 @@
+{
+ "$about": "Opening animation (Loading Screen 'Moving gradient') colour stops: start, middle, end. 'default' is the Figma value, used by every theme without its own entry. Configure > Opening animation overrides these per browser.",
+ "default": [
+  "#008b28",
+  "#009b59",
+  "#de9500"
+ ],
+ "Junior de Barranquilla (Light)": [
+  "#002579",
+  "#0031a1",
+  "#eb0400"
+ ]
+}

@@ -25,18 +25,27 @@ function staticPackage() {
         const p = path.join(d, e.name);
         if (e.isDirectory()) walk(p); else files.push(path.relative(outDir, p).split(path.sep).join('/'));
       });
+      // standalone.html = the page as a normal document (used as index.html inside client zips)
+      const html = fs.readFileSync(path.join(outDir, 'index.html'), 'utf8');
+      fs.writeFileSync(path.join(outDir, 'standalone.html'), html);
+      // artifact.html = same page without the document skeleton, for claude.ai hosting
+      const head = html.match(/<head>([\s\S]*)<\/head>/)[1].replace(/<meta charset[^>]*>|<meta name="viewport"[^>]*>|<!--[\s\S]*?-->/g, '');
+      fs.writeFileSync(path.join(outDir, 'artifact.html'), head.trim() + '\n<div id="root"></div>\n');
       walk(outDir);
-      fs.writeFileSync(path.join(outDir, 'files.json'), JSON.stringify(files.filter((f) => f !== 'config.js' && f !== 'files.json'), null, 1));
+      const skip = new Set(['config.js', 'files.json', 'index.html', 'artifact.html']);
+      fs.writeFileSync(path.join(outDir, 'files.json'), JSON.stringify(files.filter((f) => !skip.has(f)), null, 1));
     },
   };
 }
 
-export default defineConfig({
+// `vite build --mode junior` (npm run build:junior) makes the Junior FC edition in dist-junior/ (.env.junior).
+export default defineConfig(({ mode }) => ({
   base: './',
   plugins: [react(), staticPackage()],
   build: {
+    outDir: mode === 'junior' ? 'dist-junior' : 'dist',
     assetsInlineLimit: 0,
     cssCodeSplit: false,
     rollupOptions: { output: { format: 'iife', inlineDynamicImports: true, entryFileNames: 'assets/app.js', assetFileNames: 'assets/[name]-[hash][extname]' } },
   },
-});
+}));

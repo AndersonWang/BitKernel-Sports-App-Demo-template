@@ -4,6 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:junior": "vite build --mode junior",
+    "preview:junior": "vite preview --outDir dist-junior",
     "preview": "vite preview"
   },
   "repository": {
@@ -15,6 +17,7 @@
   },
   "homepage": "https://github.com/AndersonWang/BitKernel-Sports-App-Demo-template#readme",
   "dependencies": {
+    "@fontsource/fira-sans-condensed": "^5.1.0",
     "@fontsource/noto-sans": "^5.1.1",
     "jszip": "^3.10.1",
     "react": "^18.3.1",

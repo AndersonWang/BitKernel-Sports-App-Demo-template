@@ -1,0 +1,120 @@
+{
+ "$about": "Per-theme text. 'copy' = defaults for Configure copy fields under that theme (a value typed in Configure still wins). 'replace' = ordered find/replace applied to screen text with tx() while the theme is selected. Other themes are unaffected.",
+ "Junior de Barranquilla (Light)": {
+  "copy": {
+   "team.main": "Junior FC",
+   "competition": "2026 Liga BetPlay DIMAYOR · {team} · Group Stage",
+   "fixture.league": "Liga BetPlay DIMAYOR",
+   "fixture.venue": "Estadio Metropolitano Roberto Meléndez, Barranquilla",
+   "membership.name": "Junior Pass",
+   "opponent-1": "Millonarios",
+   "opponent-2": "Chicó FC",
+   "opponent-3": "Deportivo Cali",
+   "opponent-4": "Millonarios",
+   "home.match-1.opponent": "Millonarios",
+   "home.match-2.opponent": "Deportivo Cali"
+  },
+  "replace": [
+   [
+    "UEFA Champions League",
+    "Copa Libertadores"
+   ],
+   [
+    "UCL",
+    "Copa Libertadores"
+   ],
+   [
+    "Copa del Rey",
+    "Copa Colombia"
+   ],
+   [
+    "Copa del rey",
+    "Copa Colombia"
+   ],
+   [
+    "Europe",
+    "South America"
+   ],
+   [
+    "Béticos Live Hangout",
+    "Fan Live Hangout"
+   ],
+   [
+    "Verdiblanco Voices",
+    "Los Tiburones Voices"
+   ],
+   [
+    "The Verdiblanco Fans",
+    "The Junior Fans"
+   ],
+   [
+    "Green-and-white LaLiga passion",
+    "Red & white Liga passion"
+   ],
+   [
+    "Preparing for LaLiga action",
+    "Preparing for Liga action"
+   ],
+   [
+    "LaLiga through the fans’ eyes",
+    "Liga through the fans’ eyes"
+   ],
+   [
+    "Betis: LaLiga Build-Up",
+    "Junior: Liga Build-Up"
+   ],
+   [
+    "Real Betis's",
+    "Junior FC's"
+   ],
+   [
+    "Real Madrid",
+    "Millonarios"
+   ],
+   [
+    "Real Betis",
+    "Junior FC"
+   ],
+   [
+    "Betis's",
+    "Junior's"
+   ],
+   [
+    "BETIS",
+    "JUNIOR"
+   ],
+   [
+    "Betis",
+    "Junior"
+   ],
+   [
+    "2025-2026 LaLiga",
+    "2026 Liga BetPlay DIMAYOR"
+   ],
+   [
+    "2025-2026 La Liga",
+    "2026 Liga BetPlay DIMAYOR"
+   ],
+   [
+    "LaLiga 2025/2026",
+    "Liga BetPlay DIMAYOR 2026"
+   ],
+   [
+    "LaLiga",
+    "Liga BetPlay DIMAYOR"
+   ],
+   [
+    "La Liga",
+    "Liga BetPlay DIMAYOR"
+   ],
+   [
+    "Spain",
+    "Colombia"
+   ],
+   [
+    "2025/2026",
+    "2026"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,480 @@
+{
+ "home": [
+  "assets/brand/club-crest.png",
+  "assets/home/banner-1.webp",
+  "assets/home/banner-2.webp",
+  "assets/home/banner-bottom-player.webp",
+  "assets/home/banner-bottom-texture.webp",
+  "assets/home/clip-1.webp",
+  "assets/home/clip-2.webp",
+  "assets/home/clip-3.webp",
+  "assets/home/clip-4.webp",
+  "assets/home/creator-1.webp",
+  "assets/home/creator-2.webp",
+  "assets/home/creator-3.webp",
+  "assets/home/creator-4.webp",
+  "assets/home/creator-5.webp",
+  "assets/home/creator-6.webp",
+  "assets/home/liveroom-1-host.webp",
+  "assets/home/liveroom-1.webp",
+  "assets/home/match-1.webp",
+  "assets/home/match-2.webp",
+  "assets/home/match-3.webp",
+  "assets/home/photo-1.webp",
+  "assets/home/photo-2.webp",
+  "assets/home/photo-3.webp",
+  "assets/home/photo-4.webp",
+  "assets/home/rec-1.webp",
+  "assets/home/rec-2.webp",
+  "assets/home/rec-3.webp",
+  "assets/home/video-1.webp",
+  "assets/home/video-2.webp",
+  "assets/home/video-3.webp",
+  "assets/home/vote-1.webp",
+  "assets/home/vote-2.webp",
+  "assets/home/vote-3.webp",
+  "assets/logos/barcelona.png",
+  "assets/logos/elche.png",
+  "assets/logos/palmeiras.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "login": [
+  "assets/brand/club-crest.png"
+ ],
+ "loading": [
+  "assets/brand/club-crest.png"
+ ],
+ "fixtures": [
+  "assets/brand/club-crest.png",
+  "assets/logos/barcelona.png",
+  "assets/logos/palmeiras.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "fixtures-results": [
+  "assets/brand/club-crest.png",
+  "assets/logos/elche.png",
+  "assets/logos/palmeiras.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "leagues": [
+  "assets/fixtures/leagues/copa.png",
+  "assets/fixtures/leagues/cwc.png",
+  "assets/fixtures/leagues/laliga.png",
+  "assets/fixtures/leagues/ucl.png"
+ ],
+ "post-game-stats": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/net.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "live-stats": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/net.png",
+  "assets/logos/elche.png"
+ ],
+ "league-page": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/leagues/laliga.png",
+  "assets/fixtures/player/rm-levante.png",
+  "assets/fixtures/player/rm-valencia.png",
+  "assets/fixtures/table/t1.png",
+  "assets/fixtures/table/t10.png",
+  "assets/fixtures/table/t11.png",
+  "assets/fixtures/table/t12.png",
+  "assets/fixtures/table/t13.png",
+  "assets/fixtures/table/t14.png",
+  "assets/fixtures/table/t3.png",
+  "assets/fixtures/table/t4.png",
+  "assets/fixtures/table/t6.png",
+  "assets/fixtures/table/t7.png",
+  "assets/fixtures/table/t8.png",
+  "assets/logos/elche.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "team-page": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/leagues/copa.png",
+  "assets/fixtures/leagues/laliga.png",
+  "assets/fixtures/leagues/libertadores.png",
+  "assets/fixtures/leagues/ucl.png",
+  "assets/fixtures/player/rm-levante.png",
+  "assets/fixtures/table/t1.png",
+  "assets/fixtures/table/t10.png",
+  "assets/logos/elche.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "pre-game-stats": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/net.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "player-stats": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/ball.svg",
+  "assets/fixtures/player/flag-esp.png",
+  "assets/fixtures/player/league-crest.png",
+  "assets/fixtures/player/player-cutout.png",
+  "assets/fixtures/player/rm-levante.png",
+  "assets/fixtures/player/rm-valencia.png"
+ ],
+ "live-player": [
+  "assets/watch/rotate-phone.svg",
+  "assets/watch/video-still.webp"
+ ],
+ "video-player-h": [
+  "assets/watch/exit-fullscreen.svg",
+  "assets/watch/video-still.webp"
+ ],
+ "watch": [
+  "assets/brand/club-crest.png",
+  "assets/watch/ch-band.webp",
+  "assets/watch/ch-cinemax.webp",
+  "assets/watch/ch-combate.webp",
+  "assets/watch/ch-espn.webp",
+  "assets/watch/ch-espn2.webp",
+  "assets/watch/ch-espn3.webp",
+  "assets/watch/ch-espn4.webp",
+  "assets/watch/ch-sportv.svg",
+  "assets/watch/ch-sportv2.svg",
+  "assets/watch/player.webp"
+ ],
+ "watch-plus": [
+  "assets/brand/club-crest.png",
+  "assets/watch/ch-band.webp",
+  "assets/watch/ch-cinemax.webp",
+  "assets/watch/ch-combate.webp",
+  "assets/watch/ch-espn.webp",
+  "assets/watch/ch-espn2.webp",
+  "assets/watch/ch-espn3.webp",
+  "assets/watch/ch-espn4.webp",
+  "assets/watch/ch-sportv.svg",
+  "assets/watch/ch-sportv2.svg",
+  "assets/watch/player.webp"
+ ],
+ "watch-premium": [
+  "assets/brand/club-crest.png",
+  "assets/watch/ch-band.webp",
+  "assets/watch/ch-cinemax.webp",
+  "assets/watch/ch-combate.webp",
+  "assets/watch/ch-espn.webp",
+  "assets/watch/ch-espn2.webp",
+  "assets/watch/ch-espn3.webp",
+  "assets/watch/ch-espn4.webp",
+  "assets/watch/ch-sportv.svg",
+  "assets/watch/ch-sportv2.svg",
+  "assets/watch/player.webp"
+ ],
+ "watch-playback": [
+  "assets/brand/club-crest.png",
+  "assets/watch/ch-cinemax.webp",
+  "assets/watch/ch-combate.webp",
+  "assets/watch/ch-espn.webp",
+  "assets/watch/ch-sportv2.svg",
+  "assets/watch/player.webp"
+ ],
+ "watch-guide": [
+  "assets/brand/club-crest.png",
+  "assets/watch/player.webp"
+ ],
+ "watch-upcoming": [
+  "assets/brand/club-crest.png",
+  "assets/logos/barcelona.png",
+  "assets/logos/elche.png",
+  "assets/logos/palmeiras.png",
+  "assets/logos/real-madrid.png",
+  "assets/watch/player.webp"
+ ],
+ "watch-results": [
+  "assets/brand/club-crest.png",
+  "assets/logos/palmeiras.png",
+  "assets/watch/player.webp"
+ ],
+ "watch-leagues": [
+  "assets/brand/club-crest.png",
+  "assets/logos/palmeiras.png",
+  "assets/watch/player.webp"
+ ],
+ "watch-og": [
+  "assets/brand/club-crest.png",
+  "assets/home/clip-1.webp",
+  "assets/home/clip-2.webp",
+  "assets/watch/og-1.webp",
+  "assets/watch/og-2.webp"
+ ],
+ "watch-betisplus": [
+  "assets/brand/club-crest.png",
+  "assets/home/clip-1.webp",
+  "assets/home/clip-2.webp",
+  "assets/watch/og-1.webp",
+  "assets/watch/og-2.webp"
+ ],
+ "watch-stats": [
+  "assets/brand/club-crest.png",
+  "assets/logos/palmeiras.png",
+  "assets/watch/player.webp"
+ ],
+ "community": [
+  "assets/brand/club-crest.png",
+  "assets/community/antony.webp",
+  "assets/community/club-av.webp",
+  "assets/community/cucho.webp",
+  "assets/community/isco.webp"
+ ],
+ "community-posts": [
+  "assets/brand/club-crest.png",
+  "assets/community/av-barolo.webp",
+  "assets/community/post-1.webp",
+  "assets/community/post-2.webp",
+  "assets/community/post-3.webp",
+  "assets/community/post-4.webp",
+  "assets/community/post-5.webp",
+  "assets/community/post-6.webp",
+  "assets/community/post-7.webp",
+  "assets/community/post-8.webp",
+  "assets/community/post-9.webp",
+  "assets/community/post-video.webp"
+ ],
+ "create-post": [
+  "assets/community/keyboard.webp",
+  "assets/myspace/avatar.webp"
+ ],
+ "community-fanclubs": [
+  "assets/brand/club-crest.png",
+  "assets/community/club-av.webp"
+ ],
+ "fanclub": [
+  "assets/community/club-av.webp",
+  "assets/community/fc-banner.webp",
+  "assets/community/fc-live.webp",
+  "assets/community/fc-team-av.webp",
+  "assets/community/fc-up.webp"
+ ],
+ "live-rooms": [
+  "assets/brand/club-crest.png",
+  "assets/live/card1.webp",
+  "assets/live/card2.webp",
+  "assets/live/card3.webp",
+  "assets/live/host-manolo.webp"
+ ],
+ "live-programs": [
+  "assets/brand/club-crest.png",
+  "assets/live/card1.webp",
+  "assets/live/card2.webp",
+  "assets/live/card3.webp",
+  "assets/live/host-manolo.webp"
+ ],
+ "live-shows": [
+  "assets/brand/club-crest.png",
+  "assets/live/show1.webp",
+  "assets/live/show2.webp"
+ ],
+ "fantasy": [
+  "assets/brand/club-crest.png",
+  "assets/fantasy/lg-1.webp",
+  "assets/fantasy/lg-2.webp",
+  "assets/fantasy/lg-3.webp",
+  "assets/fantasy/lg-4.webp",
+  "assets/fantasy/lg-5.webp",
+  "assets/fantasy/news-1.webp",
+  "assets/fantasy/news-2.webp",
+  "assets/fantasy/team.webp"
+ ],
+ "fantasy-pick": [
+  "assets/brand/club-crest.png",
+  "assets/fantasy/goal-net.webp",
+  "assets/fantasy/kit-arsenal.webp",
+  "assets/fantasy/kit-betis.webp",
+  "assets/fantasy/kit-brentford.webp",
+  "assets/fantasy/kit-brighton-gk.webp",
+  "assets/fantasy/kit-chelsea.webp",
+  "assets/fantasy/kit-ipswich.webp",
+  "assets/fantasy/kit-mancity.webp",
+  "assets/fantasy/kit-manutd.webp",
+  "assets/fantasy/kit-palace.webp",
+  "assets/fantasy/kit-spurs.webp",
+  "assets/fantasy/kit-sunderland.webp",
+  "assets/fantasy/pitch.svg",
+  "assets/fixtures/net.png"
+ ],
+ "myspace": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/net.png",
+  "assets/logos/palmeiras.png",
+  "assets/myspace/art-1.webp",
+  "assets/myspace/art-2.webp",
+  "assets/myspace/art-3.webp",
+  "assets/myspace/avatar.webp",
+  "assets/myspace/banner-player.webp",
+  "assets/myspace/coin.svg",
+  "assets/myspace/cw-1.webp",
+  "assets/myspace/cw-2.webp",
+  "assets/myspace/cw-3.webp",
+  "assets/myspace/histbar.svg",
+  "assets/myspace/ml-1.webp",
+  "assets/myspace/ml-2.webp",
+  "assets/myspace/ml-3.webp",
+  "assets/myspace/ml-4.webp",
+  "assets/myspace/points3d.svg",
+  "assets/myspace/sc-1.webp",
+  "assets/myspace/sc-2.webp",
+  "assets/myspace/sc-3.webp",
+  "assets/myspace/sc-4.webp"
+ ],
+ "social-profile": [
+  "assets/myspace/avatar.webp",
+  "assets/myspace/post-1.webp"
+ ],
+ "avatar": [
+  "assets/fixtures/net.png",
+  "assets/myspace/avatar-player-poster.webp",
+  "assets/myspace/avatar-player.webm"
+ ],
+ "avatar-create": [],
+ "avatar-play": [
+  "assets/fixtures/net.png",
+  "assets/myspace/avatar-player-poster.webp",
+  "assets/myspace/avatar-player.webm"
+ ],
+ "avatar-chat": [
+  "assets/myspace/chat-avatar.mp4",
+  "assets/myspace/chat-avatar.webp"
+ ],
+ "wallet": [
+  "assets/myspace/coin.svg"
+ ],
+ "wallet-recharged": [
+  "assets/myspace/coin.svg"
+ ],
+ "settings": [],
+ "membership": [
+  "assets/membership/m1.webp",
+  "assets/membership/m2.webp",
+  "assets/membership/m3.webp",
+  "assets/membership/m4.webp",
+  "assets/membership/m5.webp",
+  "assets/membership/m6.webp",
+  "assets/membership/m7.webp",
+  "assets/membership/m8.webp"
+ ],
+ "live-start": [],
+ "live-host": [
+  "assets/live/coin.png",
+  "assets/live/live-bg-poster.webp",
+  "assets/live/live-bg.mp4",
+  "assets/live/rose.webp"
+ ],
+ "voting": [
+  "assets/voting/banner-base.webp",
+  "assets/voting/banner.webp",
+  "assets/voting/c1.webp",
+  "assets/voting/c2.webp",
+  "assets/voting/c3.webp",
+  "assets/voting/c4.webp",
+  "assets/voting/c5.webp",
+  "assets/voting/c6.webp"
+ ],
+ "predictions": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/ball.svg",
+  "assets/logos/barcelona.png",
+  "assets/logos/elche.png",
+  "assets/logos/palmeiras.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "predictions-ranking": [
+  "assets/brand/club-crest.png",
+  "assets/predictions/rank/bronze.svg",
+  "assets/predictions/rank/gold.svg",
+  "assets/predictions/rank/p100.webp",
+  "assets/predictions/rank/p95.webp",
+  "assets/predictions/rank/p98.webp",
+  "assets/predictions/rank/p99.webp",
+  "assets/predictions/rank/silver.svg"
+ ],
+ "match-predictions": [
+  "assets/brand/club-crest.png",
+  "assets/fixtures/net.png",
+  "assets/logos/real-madrid.png"
+ ],
+ "live-room-list": [
+  "assets/brand/club-crest.png",
+  "assets/home/lr-1.webp",
+  "assets/home/lr-2.webp",
+  "assets/home/lr-3.webp",
+  "assets/home/lr-4.webp",
+  "assets/home/lr-host-1.webp"
+ ],
+ "live-room": [
+  "assets/brand/club-crest.png",
+  "assets/live/coin.png",
+  "assets/live/live-bg-poster.webp",
+  "assets/live/live-bg.mp4",
+  "assets/live/rose.webp"
+ ],
+ "watch-party": [
+  "assets/live/wp-video.webp",
+  "assets/watch/rotate-phone.svg"
+ ],
+ "challenge-room": [
+  "assets/live/av-andrew.webp",
+  "assets/live/av-ferreirinha.webp",
+  "assets/live/av-lucas.webp",
+  "assets/live/coin.png",
+  "assets/live/pk-a.webp",
+  "assets/live/pk-b.webp",
+  "assets/live/rose.webp"
+ ],
+ "video-playlist": [
+  "assets/home/vp-1.webp",
+  "assets/home/vp-2.webp",
+  "assets/home/vp-3.webp",
+  "assets/home/vp-4.webp",
+  "assets/home/vp-5.webp",
+  "assets/home/vp-6.webp",
+  "assets/home/vp-base.webp"
+ ],
+ "clips-list": [
+  "assets/home/cl-1.webp",
+  "assets/home/cl-2.webp",
+  "assets/home/cl-3.webp",
+  "assets/home/cl-4.webp",
+  "assets/home/cl-5.webp",
+  "assets/home/cl-6.webp"
+ ],
+ "video-detail": [
+  "assets/brand/club-crest.png",
+  "assets/watch/av-1.webp",
+  "assets/watch/av-3.webp",
+  "assets/watch/rel-1.webp",
+  "assets/watch/rel-2.webp",
+  "assets/watch/rel-3.webp",
+  "assets/watch/rel-4.webp",
+  "assets/watch/vd-banner.webp"
+ ],
+ "clips": [
+  "assets/brand/club-crest.png",
+  "assets/home/clip-view.webp"
+ ],
+ "clips-liked": [
+  "assets/brand/club-crest.png",
+  "assets/home/clip-view.webp"
+ ],
+ "photo-albums": [
+  "assets/home/pa-1.webp",
+  "assets/home/pa-2.webp",
+  "assets/home/pa-3.webp",
+  "assets/home/pa-4.webp",
+  "assets/home/pa-5.webp"
+ ],
+ "photos": [
+  "assets/photos/photo-1.webp"
+ ],
+ "candidate": [
+  "assets/voting/sofia.webp"
+ ],
+ "notifications": [],
+ "search": [
+  "assets/general/trend-1.webp",
+  "assets/general/trend-2.webp"
+ ]
+}

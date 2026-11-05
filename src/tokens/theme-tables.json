@@ -1,0 +1,148 @@
+{
+ "$about": "Per-theme league table: club = the row that is the demo club (gets the Configure crest/name on the League page). Rows: [name, logo, games played, goal difference, points].",
+ "Junior de Barranquilla (Light)": {
+  "club": "Junior",
+  "rows": [
+   [
+    "Atlético Nacional",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-nacional.png",
+    19,
+    "+18",
+    41
+   ],
+   [
+    "Independiente Medellín",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-medellin.png",
+    19,
+    "+14",
+    38
+   ],
+   [
+    "América de Cali",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-america.png",
+    19,
+    "+11",
+    36
+   ],
+   [
+    "Deportivo Cali",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-deportivo-cali.png",
+    19,
+    "+9",
+    34
+   ],
+   [
+    "Millonarios",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-millonarios.png",
+    19,
+    "+7",
+    33
+   ],
+   [
+    "Santa Fe",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-santa-fe.png",
+    19,
+    "+6",
+    31
+   ],
+   [
+    "Internacional de Bogotá",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-internacional-bogota.png",
+    19,
+    "+4",
+    30
+   ],
+   [
+    "Fortaleza CEIF",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-fortaleza.png",
+    19,
+    "+3",
+    29
+   ],
+   [
+    "Junior",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-junior.png",
+    19,
+    "+1",
+    28
+   ],
+   [
+    "Atlético Bucaramanga",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-bucaramanga.png",
+    19,
+    "0",
+    26
+   ],
+   [
+    "Once Caldas",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-once-caldas.png",
+    19,
+    "-1",
+    25
+   ],
+   [
+    "Deportes Tolima",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-tolima.png",
+    19,
+    "-2",
+    24
+   ],
+   [
+    "Deportivo Pereira",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-pereira.png",
+    19,
+    "-3",
+    23
+   ],
+   [
+    "Águilas Doradas",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-aguilas-doradas.png",
+    19,
+    "-4",
+    21
+   ],
+   [
+    "Cúcuta Deportivo",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-cucuta.png",
+    19,
+    "-6",
+    20
+   ],
+   [
+    "Alianza FC",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-alianza.png",
+    19,
+    "-7",
+    18
+   ],
+   [
+    "Llaneros",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-llaneros.png",
+    19,
+    "-9",
+    17
+   ],
+   [
+    "Boyacá Chicó",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-chico.png",
+    19,
+    "-11",
+    15
+   ],
+   [
+    "Jaguares de Córdoba",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-jaguares.png",
+    19,
+    "-13",
+    13
+   ],
+   [
+    "Deportivo Pasto",
+    "assets/themes/junior-de-barranquilla-light/fixtures/table/co-pasto.png",
+    19,
+    "-17",
+    11
+   ]
+  ]
+ }
+}

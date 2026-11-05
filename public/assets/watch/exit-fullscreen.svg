@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="19.5" height="17.75" viewBox="0 0 19.5 17.75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<rect id="phone 1" x="0.750001" y="17" width="10" height="18" rx="1.5" transform="rotate(-90 0.750001 17)" stroke="white" stroke-width="1.5"/>
+<path id="phone 2" d="M2.75 5.75V2.25C2.75 1.42157 3.42157 0.75 4.25 0.75L10.25 0.75C11.0784 0.75 11.75 1.42157 11.75 2.25V5.75" stroke-width="1.5" stroke="#989898"/>
+<path id="arrow" d="M17.8916 5.50098C17.8916 4.70884 17.8189 3.90224 17.3193 3.31445C16.8355 2.74542 16.0586 2.49954 14.9766 2.4707V1.5L13 2.96484L14.9766 4.42871V3.4707C15.9274 3.49965 16.348 3.71549 16.5576 3.96191C16.799 4.24598 16.8916 4.70804 16.8916 5.50098H17.8916Z" fill="white"/>
+</g>
+</svg>

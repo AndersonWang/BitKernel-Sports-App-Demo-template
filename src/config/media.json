@@ -1,0 +1,2293 @@
+{
+ "pages": [
+  {
+   "name": "Home",
+   "items": [
+    {
+     "path": "assets/home/banner-1.webp",
+     "size": "672×378",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/banner-2.webp",
+     "size": "672×1195",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/banner-bottom-player.webp",
+     "size": "280×374",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/banner-bottom-texture.webp",
+     "size": "400×400",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/clip-1.webp",
+     "size": "330×394",
+     "where": [
+      "Homepage",
+      "Watch / BETIS+",
+      "Watch / Betis OG"
+     ]
+    },
+    {
+     "path": "assets/home/clip-2.webp",
+     "size": "330×220",
+     "where": [
+      "Homepage",
+      "Watch / BETIS+",
+      "Watch / Betis OG"
+     ]
+    },
+    {
+     "path": "assets/home/clip-3.webp",
+     "size": "330×450",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/clip-4.webp",
+     "size": "330×445",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/clip-view.webp",
+     "size": "960×640",
+     "where": [
+      "Clips View / Like",
+      "Clips View / Unlike"
+     ]
+    },
+    {
+     "path": "assets/home/creator-1.webp",
+     "size": "160×160",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/creator-2.webp",
+     "size": "160×160",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/creator-3.webp",
+     "size": "160×160",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/creator-4.webp",
+     "size": "160×160",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/creator-5.webp",
+     "size": "160×160",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/creator-6.webp",
+     "size": "160×160",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/liveroom-1-host.webp",
+     "size": "48×27",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/liveroom-1.webp",
+     "size": "686×780",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/match-1.webp",
+     "size": "259×142",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/match-2.webp",
+     "size": "506×506",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/match-3.webp",
+     "size": "506×337",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/pa-1.webp",
+     "size": "331×476",
+     "where": [
+      "Photos"
+     ]
+    },
+    {
+     "path": "assets/home/pa-2.webp",
+     "size": "331×476",
+     "where": [
+      "Photos"
+     ]
+    },
+    {
+     "path": "assets/home/pa-3.webp",
+     "size": "331×476",
+     "where": [
+      "Photos"
+     ]
+    },
+    {
+     "path": "assets/home/pa-4.webp",
+     "size": "331×476",
+     "where": [
+      "Photos"
+     ]
+    },
+    {
+     "path": "assets/home/pa-5.webp",
+     "size": "331×476",
+     "where": [
+      "Photos"
+     ]
+    },
+    {
+     "path": "assets/home/photo-1.webp",
+     "size": "330×186",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/photo-2.webp",
+     "size": "330×186",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/photo-3.webp",
+     "size": "330×220",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/photo-4.webp",
+     "size": "330×248",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/rec-1.webp",
+     "size": "506×282",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/rec-2.webp",
+     "size": "506×282",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/rec-3.webp",
+     "size": "506×282",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/video-1.webp",
+     "size": "506×682",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/video-2.webp",
+     "size": "506×282",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/video-3.webp",
+     "size": "506×282",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/vote-1.webp",
+     "size": "330×412",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/vote-2.webp",
+     "size": "282×244",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/home/vote-3.webp",
+     "size": "330×406",
+     "where": [
+      "Homepage"
+     ]
+    },
+    {
+     "path": "assets/photos/photo-1.webp",
+     "size": "768×432",
+     "where": [
+      "Photos / Unlike"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fixtures",
+   "items": [
+    {
+     "path": "assets/fixtures/ball.svg",
+     "size": "SVG",
+     "where": [
+      "Fixtures / Squads / Stats",
+      "Predictions / Off Day"
+     ]
+    },
+    {
+     "path": "assets/fixtures/leagues/copa.png",
+     "size": "148×160",
+     "where": [
+      "Leagues",
+      "Team Page - Overview"
+     ]
+    },
+    {
+     "path": "assets/fixtures/leagues/cwc.png",
+     "size": "160×160",
+     "where": [
+      "Leagues"
+     ]
+    },
+    {
+     "path": "assets/fixtures/leagues/laliga.png",
+     "size": "160×160",
+     "where": [
+      "League Page",
+      "Leagues",
+      "Team Page - Overview"
+     ]
+    },
+    {
+     "path": "assets/fixtures/leagues/libertadores.png",
+     "size": "156×160",
+     "where": [
+      "Team Page - Overview"
+     ]
+    },
+    {
+     "path": "assets/fixtures/leagues/ucl.png",
+     "size": "160×160",
+     "where": [
+      "Leagues",
+      "Team Page - Overview"
+     ]
+    },
+    {
+     "path": "assets/fixtures/player/flag-esp.png",
+     "size": "36×36",
+     "where": [
+      "Fixtures / Squads / Stats"
+     ]
+    },
+    {
+     "path": "assets/fixtures/player/league-crest.png",
+     "size": "344×296",
+     "where": [
+      "Fixtures / Squads / Stats"
+     ]
+    },
+    {
+     "path": "assets/fixtures/player/player-cutout.png",
+     "size": "340×356",
+     "where": [
+      "Fixtures / Squads / Stats"
+     ]
+    },
+    {
+     "path": "assets/fixtures/player/rm-levante.png",
+     "size": "200×200",
+     "where": [
+      "Fixtures / Squads / Stats",
+      "League Page",
+      "Team Page - Overview"
+     ]
+    },
+    {
+     "path": "assets/fixtures/player/rm-valencia.png",
+     "size": "200×200",
+     "where": [
+      "Fixtures / Squads / Stats",
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-d1.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-d2.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-d3.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-f1.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-f2.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-gk.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-m1.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-m2.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-m3.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-m4.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/away-m5.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/bench-away.png",
+     "size": "64×64",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/bench-home.png",
+     "size": "64×64",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/coach-away.png",
+     "size": "64×64",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/coach-home.png",
+     "size": "64×64",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-d1.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-d2.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-d3.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-d4.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-f1.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-f2.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-f3.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-gk.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-m1.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-m2.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/home-m3.png",
+     "size": "96×96",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/pitch-centre.svg",
+     "size": "SVG",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/pitch-goal-bottom.svg",
+     "size": "SVG",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/squads/pitch-goal-top.svg",
+     "size": "SVG",
+     "where": [
+      "Pre-game Stats › Squads tab (also Watch › Stats › Squads)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/laliga.png",
+     "size": "959×960",
+     "where": [
+      "Table tab › league logo"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t1.png",
+     "size": "48×48",
+     "where": [
+      "League Page",
+      "Team Page - Overview"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t10.png",
+     "size": "48×48",
+     "where": [
+      "League Page",
+      "Team Page - Overview"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t11.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t12.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t13.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t14.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t3.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t4.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t6.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t7.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    },
+    {
+     "path": "assets/fixtures/table/t8.png",
+     "size": "48×48",
+     "where": [
+      "League Page"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Predictions",
+   "items": [
+    {
+     "path": "assets/fixtures/ball.svg",
+     "size": "SVG",
+     "where": [
+      "Fixtures / Squads / Stats",
+      "Predictions / Off Day"
+     ]
+    },
+    {
+     "path": "assets/fixtures/success.svg",
+     "size": "SVG",
+     "where": [
+      "Prediction ticket › Success pop-up"
+     ]
+    },
+    {
+     "path": "assets/predictions/rank/bronze.svg",
+     "size": "SVG",
+     "where": [
+      "Predictions / Ranking"
+     ]
+    },
+    {
+     "path": "assets/predictions/rank/gold.svg",
+     "size": "SVG",
+     "where": [
+      "Predictions / Ranking"
+     ]
+    },
+    {
+     "path": "assets/predictions/rank/p100.webp",
+     "size": "120×120",
+     "where": [
+      "Predictions / Ranking"
+     ]
+    },
+    {
+     "path": "assets/predictions/rank/p95.webp",
+     "size": "120×120",
+     "where": [
+      "Predictions / Ranking"
+     ]
+    },
+    {
+     "path": "assets/predictions/rank/p98.webp",
+     "size": "120×120",
+     "where": [
+      "Predictions / Ranking"
+     ]
+    },
+    {
+     "path": "assets/predictions/rank/p99.webp",
+     "size": "120×120",
+     "where": [
+      "Predictions / Ranking"
+     ]
+    },
+    {
+     "path": "assets/predictions/rank/silver.svg",
+     "size": "SVG",
+     "where": [
+      "Predictions / Ranking"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Live Rooms",
+   "items": [
+    {
+     "path": "assets/home/lr-1.webp",
+     "size": "686×780",
+     "where": [
+      "Home/ Full Liveroom List"
+     ]
+    },
+    {
+     "path": "assets/home/lr-2.webp",
+     "size": "524×706",
+     "where": [
+      "Home/ Full Liveroom List"
+     ]
+    },
+    {
+     "path": "assets/home/lr-3.webp",
+     "size": "686×338",
+     "where": [
+      "Home/ Full Liveroom List"
+     ]
+    },
+    {
+     "path": "assets/home/lr-4.webp",
+     "size": "686×386",
+     "where": [
+      "Home/ Full Liveroom List"
+     ]
+    },
+    {
+     "path": "assets/home/lr-host-1.webp",
+     "size": "48×32",
+     "where": [
+      "Home/ Full Liveroom List"
+     ]
+    },
+    {
+     "path": "assets/live/av-andrew.webp",
+     "size": "40×60",
+     "where": [
+      "Live Room / Challenge Room"
+     ]
+    },
+    {
+     "path": "assets/live/av-ferreirinha.webp",
+     "size": "32×32",
+     "where": [
+      "Live Room / Challenge Room"
+     ]
+    },
+    {
+     "path": "assets/live/av-lucas.webp",
+     "size": "174×80",
+     "where": [
+      "Live Room / Challenge Room"
+     ]
+    },
+    {
+     "path": "assets/live/card1.webp",
+     "size": "686×780",
+     "where": [
+      "Live Show / Calendar",
+      "Live Show / Program / Today"
+     ]
+    },
+    {
+     "path": "assets/live/card2.webp",
+     "size": "640×480",
+     "where": [
+      "Live Show / Calendar",
+      "Live Show / Program / Today"
+     ]
+    },
+    {
+     "path": "assets/live/card3.webp",
+     "size": "686×452",
+     "where": [
+      "Live Show / Calendar",
+      "Live Show / Program / Today"
+     ]
+    },
+    {
+     "path": "assets/live/cohost-b.webp",
+     "size": "375×406",
+     "where": [
+      "Live room › Co-Host"
+     ]
+    },
+    {
+     "path": "assets/live/cohost-t.webp",
+     "size": "375×406",
+     "where": [
+      "Live room › Co-Host"
+     ]
+    },
+    {
+     "path": "assets/live/coin.png",
+     "size": "36×36",
+     "where": [
+      "Live - Start Room / host view",
+      "Live / Default",
+      "Live Room / Challenge Room"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g01.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g02.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g03.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g04.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g05.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g06.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g07.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g08.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g09.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g10.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g11.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g12.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g13.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g14.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g15.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g16.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/gift-g17.webp",
+     "size": "108×108",
+     "where": [
+      "Live room › Gifts sheet"
+     ]
+    },
+    {
+     "path": "assets/live/host-manolo.webp",
+     "size": "60×40",
+     "where": [
+      "Live Show / Calendar",
+      "Live Show / Program / Today"
+     ]
+    },
+    {
+     "path": "assets/live/jersey-1.webp",
+     "size": "128×128",
+     "where": [
+      "Live room › Shop drawer"
+     ]
+    },
+    {
+     "path": "assets/live/jersey-2.webp",
+     "size": "128×128",
+     "where": [
+      "Live room › Shop drawer"
+     ]
+    },
+    {
+     "path": "assets/live/jersey-3.webp",
+     "size": "150×150",
+     "where": [
+      "Live room › Shop drawer"
+     ]
+    },
+    {
+     "path": "assets/live/jersey-big.webp",
+     "size": "375×375",
+     "where": [
+      "Live room › Shop drawer"
+     ]
+    },
+    {
+     "path": "assets/live/live-bg-poster.webp",
+     "size": "750×1624",
+     "where": [
+      "Live - Start Room / host view",
+      "Live / Default"
+     ]
+    },
+    {
+     "path": "assets/live/live-bg.webp",
+     "size": "524×706",
+     "where": [
+      "Live room background (browsers without video)"
+     ]
+    },
+    {
+     "path": "assets/live/pk-a.webp",
+     "size": "188×239",
+     "where": [
+      "Live Room / Challenge Room"
+     ]
+    },
+    {
+     "path": "assets/live/pk-b.webp",
+     "size": "188×239",
+     "where": [
+      "Live Room / Challenge Room"
+     ]
+    },
+    {
+     "path": "assets/live/rose.webp",
+     "size": "240×240",
+     "where": [
+      "Live - Start Room / host view",
+      "Live / Default",
+      "Live Room / Challenge Room"
+     ]
+    },
+    {
+     "path": "assets/live/show1.webp",
+     "size": "506×337",
+     "where": [
+      "Live Show / Shows"
+     ]
+    },
+    {
+     "path": "assets/live/show2.webp",
+     "size": "506×285",
+     "where": [
+      "Live Show / Shows"
+     ]
+    },
+    {
+     "path": "assets/live/start-cover.webp",
+     "size": "232×232",
+     "where": [
+      "Start a Room › cover added"
+     ]
+    },
+    {
+     "path": "assets/live/up1.webp",
+     "size": "600×338",
+     "where": [
+      "Live Show › Calendar › Upcoming rooms"
+     ]
+    },
+    {
+     "path": "assets/live/up2.webp",
+     "size": "600×338",
+     "where": [
+      "Live Show › Calendar › Upcoming rooms"
+     ]
+    },
+    {
+     "path": "assets/live/up3.webp",
+     "size": "600×296",
+     "where": [
+      "Live Show › Calendar › Upcoming rooms"
+     ]
+    },
+    {
+     "path": "assets/live/wp-video.webp",
+     "size": "750×370",
+     "where": [
+      "Watch Party"
+     ]
+    },
+    {
+     "path": "assets/watch/rotate-phone.svg",
+     "size": "SVG",
+     "where": [
+      "Media/ Video Player",
+      "Watch Party"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fantasy",
+   "items": [
+    {
+     "path": "assets/fantasy/crest-eve.webp",
+     "size": "62×64",
+     "where": [
+      "Pick Team › player details › fixtures"
+     ]
+    },
+    {
+     "path": "assets/fantasy/crest-ips.webp",
+     "size": "51×64",
+     "where": [
+      "Pick Team › player details › fixtures"
+     ]
+    },
+    {
+     "path": "assets/fantasy/crest-mci.webp",
+     "size": "64×64",
+     "where": [
+      "Pick Team › player details › fixtures"
+     ]
+    },
+    {
+     "path": "assets/fantasy/goal-net.webp",
+     "size": "160×85",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-arsenal.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-betis.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-brentford.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-brighton-gk.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-chelsea.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-ipswich.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-mancity.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-manutd.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-palace.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-spurs.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/kit-sunderland.webp",
+     "size": "132×174",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/lg-1.webp",
+     "size": "64×64",
+     "where": [
+      "Fantasy / Home"
+     ]
+    },
+    {
+     "path": "assets/fantasy/lg-2.webp",
+     "size": "64×64",
+     "where": [
+      "Fantasy / Home"
+     ]
+    },
+    {
+     "path": "assets/fantasy/lg-3.webp",
+     "size": "64×64",
+     "where": [
+      "Fantasy / Home"
+     ]
+    },
+    {
+     "path": "assets/fantasy/lg-4.webp",
+     "size": "64×64",
+     "where": [
+      "Fantasy / Home"
+     ]
+    },
+    {
+     "path": "assets/fantasy/lg-5.webp",
+     "size": "64×64",
+     "where": [
+      "Fantasy / Home"
+     ]
+    },
+    {
+     "path": "assets/fantasy/news-1.webp",
+     "size": "506×284",
+     "where": [
+      "Fantasy / Home"
+     ]
+    },
+    {
+     "path": "assets/fantasy/news-2.webp",
+     "size": "506×284",
+     "where": [
+      "Fantasy / Home"
+     ]
+    },
+    {
+     "path": "assets/fantasy/pitch.svg",
+     "size": "SVG",
+     "where": [
+      "Fantasy / Pick Team"
+     ]
+    },
+    {
+     "path": "assets/fantasy/player-gomez.webp",
+     "size": "319×320",
+     "where": [
+      "Pick Team › player details"
+     ]
+    },
+    {
+     "path": "assets/fantasy/team.webp",
+     "size": "96×96",
+     "where": [
+      "Fantasy / Home"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Community",
+   "items": [
+    {
+     "path": "assets/community/antony.webp",
+     "size": "112×112",
+     "where": [
+      "Community / Teams"
+     ]
+    },
+    {
+     "path": "assets/community/av-barolo.webp",
+     "size": "64×114",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/av-barolo2.webp",
+     "size": "64×64",
+     "where": [
+      "Fan Club › Posts tab"
+     ]
+    },
+    {
+     "path": "assets/community/club-av.webp",
+     "size": "176×176",
+     "where": [
+      "Community / Fan Clubs",
+      "Community / Fan Clubs / Watch",
+      "Community / Teams"
+     ]
+    },
+    {
+     "path": "assets/community/cp-up1.webp",
+     "size": "232×232",
+     "where": [
+      "Create Post › photos added"
+     ]
+    },
+    {
+     "path": "assets/community/cp-up2.webp",
+     "size": "232×232",
+     "where": [
+      "Create Post › photos added"
+     ]
+    },
+    {
+     "path": "assets/community/cp-up3.webp",
+     "size": "232×232",
+     "where": [
+      "Create Post › photos added"
+     ]
+    },
+    {
+     "path": "assets/community/cucho.webp",
+     "size": "112×112",
+     "where": [
+      "Community / Teams"
+     ]
+    },
+    {
+     "path": "assets/community/fc-banner.webp",
+     "size": "686×200",
+     "where": [
+      "Community / Fan Clubs / Watch"
+     ]
+    },
+    {
+     "path": "assets/community/fc-live.webp",
+     "size": "686×780",
+     "where": [
+      "Community / Fan Clubs / Watch"
+     ]
+    },
+    {
+     "path": "assets/community/fc-team-av.webp",
+     "size": "60×40",
+     "where": [
+      "Community / Fan Clubs / Watch"
+     ]
+    },
+    {
+     "path": "assets/community/fc-up.webp",
+     "size": "686×686",
+     "where": [
+      "Community / Fan Clubs / Watch"
+     ]
+    },
+    {
+     "path": "assets/community/fc-v-aitor.webp",
+     "size": "686×566",
+     "where": [
+      "Fan Club › Watch tab"
+     ]
+    },
+    {
+     "path": "assets/community/fc-v-isco.webp",
+     "size": "686×566",
+     "where": [
+      "Fan Club › Watch tab"
+     ]
+    },
+    {
+     "path": "assets/community/isco.webp",
+     "size": "112×112",
+     "where": [
+      "Community / Teams"
+     ]
+    },
+    {
+     "path": "assets/community/keyboard.webp",
+     "size": "750×554",
+     "where": [
+      "Create Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-1.webp",
+     "size": "240×298",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-2.webp",
+     "size": "240×298",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-3.webp",
+     "size": "240×298",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-4.webp",
+     "size": "686×852",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-5.webp",
+     "size": "240×298",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-6.webp",
+     "size": "240×298",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-7.webp",
+     "size": "686×852",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-8.webp",
+     "size": "240×298",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-9.webp",
+     "size": "240×298",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/community/post-video.webp",
+     "size": "515×702",
+     "where": [
+      "Community / Post"
+     ]
+    },
+    {
+     "path": "assets/myspace/avatar.webp",
+     "size": "360×201",
+     "where": [
+      "Create Post",
+      "My Space",
+      "Profile"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Watch",
+   "items": [
+    {
+     "path": "assets/home/cl-1.webp",
+     "size": "342×408",
+     "where": [
+      "Clips"
+     ]
+    },
+    {
+     "path": "assets/home/cl-2.webp",
+     "size": "342×228",
+     "where": [
+      "Clips"
+     ]
+    },
+    {
+     "path": "assets/home/cl-3.webp",
+     "size": "342×466",
+     "where": [
+      "Clips"
+     ]
+    },
+    {
+     "path": "assets/home/cl-4.webp",
+     "size": "342×461",
+     "where": [
+      "Clips"
+     ]
+    },
+    {
+     "path": "assets/home/cl-5.webp",
+     "size": "342×228",
+     "where": [
+      "Clips"
+     ]
+    },
+    {
+     "path": "assets/home/cl-6.webp",
+     "size": "342×226",
+     "where": [
+      "Clips"
+     ]
+    },
+    {
+     "path": "assets/home/clip-1.webp",
+     "size": "330×394",
+     "where": [
+      "Homepage",
+      "Watch / BETIS+",
+      "Watch / Betis OG"
+     ]
+    },
+    {
+     "path": "assets/home/clip-2.webp",
+     "size": "330×220",
+     "where": [
+      "Homepage",
+      "Watch / BETIS+",
+      "Watch / Betis OG"
+     ]
+    },
+    {
+     "path": "assets/home/vp-1.webp",
+     "size": "330×445",
+     "where": [
+      "Video Playlist"
+     ]
+    },
+    {
+     "path": "assets/home/vp-2.webp",
+     "size": "330×186",
+     "where": [
+      "Video Playlist"
+     ]
+    },
+    {
+     "path": "assets/home/vp-3.webp",
+     "size": "330×218",
+     "where": [
+      "Video Playlist"
+     ]
+    },
+    {
+     "path": "assets/home/vp-4.webp",
+     "size": "330×220",
+     "where": [
+      "Video Playlist"
+     ]
+    },
+    {
+     "path": "assets/home/vp-5.webp",
+     "size": "330×218",
+     "where": [
+      "Video Playlist"
+     ]
+    },
+    {
+     "path": "assets/home/vp-6.webp",
+     "size": "330×220",
+     "where": [
+      "Video Playlist"
+     ]
+    },
+    {
+     "path": "assets/home/vp-base.webp",
+     "size": "330×220",
+     "where": [
+      "Video Playlist"
+     ]
+    },
+    {
+     "path": "assets/watch/av-1.webp",
+     "size": "64×64",
+     "where": [
+      "Video Detail Page"
+     ]
+    },
+    {
+     "path": "assets/watch/av-2.webp",
+     "size": "64×64",
+     "where": [
+      "Watch › live chat"
+     ]
+    },
+    {
+     "path": "assets/watch/av-3.webp",
+     "size": "64×64",
+     "where": [
+      "Video Detail Page"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-band.webp",
+     "size": "328×95",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-cinemax.webp",
+     "size": "210×105",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium",
+      "Watch / Live Channel / Playback"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-combate.webp",
+     "size": "328×48",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium",
+      "Watch / Live Channel / Playback"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-espn.webp",
+     "size": "328×81",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium",
+      "Watch / Live Channel / Playback"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-espn2.webp",
+     "size": "328×62",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-espn3.webp",
+     "size": "328×66",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-espn4.webp",
+     "size": "328×62",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-sportv.svg",
+     "size": "SVG",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium"
+     ]
+    },
+    {
+     "path": "assets/watch/ch-sportv2.svg",
+     "size": "SVG",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium",
+      "Watch / Live Channel / Playback"
+     ]
+    },
+    {
+     "path": "assets/watch/exit-fullscreen.svg",
+     "size": "SVG",
+     "where": [
+      "Media/ Video Player / Horizontal"
+     ]
+    },
+    {
+     "path": "assets/watch/og-1.webp",
+     "size": "506×284",
+     "where": [
+      "Watch / BETIS+",
+      "Watch / Betis OG"
+     ]
+    },
+    {
+     "path": "assets/watch/og-2.webp",
+     "size": "506×284",
+     "where": [
+      "Watch / BETIS+",
+      "Watch / Betis OG"
+     ]
+    },
+    {
+     "path": "assets/watch/player.webp",
+     "size": "750×384",
+     "where": [
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium",
+      "Watch / Live Channel / Fixture / Leagues",
+      "Watch / Live Channel / Fixture / Results",
+      "Watch / Live Channel / Fixture / Upcoming",
+      "Watch / Live Channel / Guide",
+      "Watch / Live Channel / Playback",
+      "Watch / Stats"
+     ]
+    },
+    {
+     "path": "assets/watch/rel-1.webp",
+     "size": "331×474",
+     "where": [
+      "Video Detail Page"
+     ]
+    },
+    {
+     "path": "assets/watch/rel-2.webp",
+     "size": "332×474",
+     "where": [
+      "Video Detail Page"
+     ]
+    },
+    {
+     "path": "assets/watch/rel-3.webp",
+     "size": "331×474",
+     "where": [
+      "Video Detail Page"
+     ]
+    },
+    {
+     "path": "assets/watch/rel-4.webp",
+     "size": "331×474",
+     "where": [
+      "Video Detail Page"
+     ]
+    },
+    {
+     "path": "assets/watch/rotate-phone.svg",
+     "size": "SVG",
+     "where": [
+      "Media/ Video Player",
+      "Watch Party"
+     ]
+    },
+    {
+     "path": "assets/watch/vd-banner.webp",
+     "size": "750×1140",
+     "where": [
+      "Video Detail Page"
+     ]
+    },
+    {
+     "path": "assets/watch/video-still.webp",
+     "size": "375×226",
+     "where": [
+      "Media/ Video Player",
+      "Media/ Video Player / Horizontal"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "My Space & Profile",
+   "items": [
+    {
+     "path": "assets/membership/m1.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/membership/m2.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/membership/m3.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/membership/m4.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/membership/m5.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/membership/m6.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/membership/m7.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/membership/m8.webp",
+     "size": "164×246",
+     "where": [
+      "Membership"
+     ]
+    },
+    {
+     "path": "assets/myspace/apple-card.png",
+     "size": "120×75",
+     "where": [
+      "Apple Pay sheet (Wallet, Membership, Live shop)"
+     ]
+    },
+    {
+     "path": "assets/myspace/applepay-side.svg",
+     "size": "SVG",
+     "where": [
+      "Apple Pay sheet › side button hint"
+     ]
+    },
+    {
+     "path": "assets/myspace/art-1.webp",
+     "size": "600×334",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/art-2.webp",
+     "size": "600×334",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/art-3.webp",
+     "size": "600×334",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/avatar-player-poster.webp",
+     "size": "464×848",
+     "where": [
+      "My Space / Play"
+     ]
+    },
+    {
+     "path": "assets/myspace/avatar.webp",
+     "size": "360×201",
+     "where": [
+      "Create Post",
+      "My Space",
+      "Profile"
+     ]
+    },
+    {
+     "path": "assets/myspace/banner-player.webp",
+     "size": "640×960",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/chat-avatar.webp",
+     "size": "375×812",
+     "where": [
+      "My Space / Play / Chat"
+     ]
+    },
+    {
+     "path": "assets/myspace/coin.svg",
+     "size": "SVG",
+     "where": [
+      "My Space",
+      "Wallet / Token",
+      "Wallet / Token / Recharged"
+     ]
+    },
+    {
+     "path": "assets/myspace/cw-1.webp",
+     "size": "400×496",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/cw-2.webp",
+     "size": "400×496",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/cw-3.webp",
+     "size": "400×496",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/histbar.svg",
+     "size": "SVG",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/ml-1.webp",
+     "size": "400×223",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/ml-2.webp",
+     "size": "400×223",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/ml-3.webp",
+     "size": "400×223",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/ml-4.webp",
+     "size": "400×223",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/points3d.svg",
+     "size": "SVG",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/post-1.webp",
+     "size": "515×702",
+     "where": [
+      "Profile"
+     ]
+    },
+    {
+     "path": "assets/myspace/sc-1.webp",
+     "size": "400×535",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/sc-2.webp",
+     "size": "400×535",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/sc-3.webp",
+     "size": "400×535",
+     "where": [
+      "My Space"
+     ]
+    },
+    {
+     "path": "assets/myspace/sc-4.webp",
+     "size": "400×535",
+     "where": [
+      "My Space"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Voting",
+   "items": [
+    {
+     "path": "assets/voting/banner-base.webp",
+     "size": "750×1140",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/banner.webp",
+     "size": "870×1080",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/c1.webp",
+     "size": "168×210",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/c2.webp",
+     "size": "168×145",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/c3.webp",
+     "size": "168×207",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/c4.webp",
+     "size": "168×210",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/c5.webp",
+     "size": "168×207",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/c6.webp",
+     "size": "168×210",
+     "where": [
+      "Votiong Campaign Detail Page"
+     ]
+    },
+    {
+     "path": "assets/voting/check.svg",
+     "size": "SVG",
+     "where": [
+      "Vote › confirmation pop-up"
+     ]
+    },
+    {
+     "path": "assets/voting/sofia.webp",
+     "size": "750×938",
+     "where": [
+      "Candidate Detail Page"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Notifications, Search & Settings",
+   "items": [
+    {
+     "path": "assets/general/trend-1.webp",
+     "size": "216×120",
+     "where": [
+      "Search"
+     ]
+    },
+    {
+     "path": "assets/general/trend-2.webp",
+     "size": "216×120",
+     "where": [
+      "Search"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Shared across pages",
+   "items": [
+    {
+     "path": "assets/brand/club-crest.png",
+     "size": "1280×1051",
+     "where": [
+      "Clips View / Like",
+      "Clips View / Unlike",
+      "Community / Fan Clubs",
+      "Community / Post",
+      "Community / Teams",
+      "Fantasy / Home",
+      "Fantasy / Pick Team",
+      "Fixtures",
+      "Fixtures / Live stats",
+      "Fixtures / Pre-game Stats",
+      "Fixtures / Pre-game Stats › Predictions",
+      "Fixtures / Results",
+      "Fixtures / Results / Post-game / Stats",
+      "Fixtures / Squads / Stats",
+      "Home/ Full Liveroom List",
+      "Homepage",
+      "League Page",
+      "Live / Default",
+      "Live Show / Calendar",
+      "Live Show / Program / Today",
+      "Live Show / Shows",
+      "Loading Screen",
+      "Login page - Email",
+      "My Space",
+      "Predictions / Off Day",
+      "Predictions / Ranking",
+      "Team Page - Overview",
+      "Video Detail Page",
+      "Watch / BETIS+",
+      "Watch / Betis OG",
+      "Watch / Live Channel / Channels / BETIS+",
+      "Watch / Live Channel / Channels / Free",
+      "Watch / Live Channel / Channels / Premium",
+      "Watch / Live Channel / Fixture / Leagues",
+      "Watch / Live Channel / Fixture / Results",
+      "Watch / Live Channel / Fixture / Upcoming",
+      "Watch / Live Channel / Guide",
+      "Watch / Live Channel / Playback",
+      "Watch / Stats"
+     ]
+    },
+    {
+     "path": "assets/comments/carol.webp",
+     "size": "48×48",
+     "where": [
+      "Comments sheet (any Comments button)"
+     ]
+    },
+    {
+     "path": "assets/comments/geraldine.webp",
+     "size": "48×48",
+     "where": [
+      "Comments sheet (any Comments button)"
+     ]
+    },
+    {
+     "path": "assets/comments/roberto.webp",
+     "size": "96×96",
+     "where": [
+      "Comments sheet (any Comments button)"
+     ]
+    },
+    {
+     "path": "assets/fixtures/net.png",
+     "size": "740×417",
+     "where": [
+      "Fantasy / Pick Team",
+      "Fixtures / Live stats",
+      "Fixtures / Pre-game Stats",
+      "Fixtures / Pre-game Stats › Predictions",
+      "Fixtures / Results / Post-game / Stats",
+      "My Space",
+      "My Space / Play"
+     ]
+    },
+    {
+     "path": "assets/logos/barcelona.png",
+     "size": "1280×1299",
+     "where": [
+      "Fixtures",
+      "Homepage",
+      "Predictions / Off Day",
+      "Watch / Live Channel / Fixture / Upcoming"
+     ]
+    },
+    {
+     "path": "assets/logos/elche.png",
+     "size": "1500×1500",
+     "where": [
+      "Fixtures / Live stats",
+      "Fixtures / Results",
+      "Homepage",
+      "League Page",
+      "Predictions / Off Day",
+      "Team Page - Overview",
+      "Watch / Live Channel / Fixture / Upcoming"
+     ]
+    },
+    {
+     "path": "assets/logos/palmeiras.png",
+     "size": "2048×2048",
+     "where": [
+      "Fixtures",
+      "Fixtures / Results",
+      "Homepage",
+      "My Space",
+      "Predictions / Off Day",
+      "Watch / Live Channel / Fixture / Leagues",
+      "Watch / Live Channel / Fixture / Results",
+      "Watch / Live Channel / Fixture / Upcoming",
+      "Watch / Stats"
+     ]
+    },
+    {
+     "path": "assets/logos/real-madrid.png",
+     "size": "1920×2681",
+     "where": [
+      "Fixtures",
+      "Fixtures / Pre-game Stats",
+      "Fixtures / Pre-game Stats › Predictions",
+      "Fixtures / Results",
+      "Fixtures / Results / Post-game / Stats",
+      "Homepage",
+      "League Page",
+      "Predictions / Off Day",
+      "Team Page - Overview",
+      "Watch / Live Channel / Fixture / Upcoming"
+     ]
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "path": "assets/live/live-bg.mp4",
+   "label": "Live room background (Live / Default and your hosted room)",
+   "poster": "assets/live/live-bg-poster.webp",
+   "spec": "MP4 or MOV (H.264), portrait, loops, sound not used",
+   "size": "750×1624, 6.5 s"
+  },
+  {
+   "path": "assets/myspace/avatar-player.webm",
+   "label": "My Space › Play: avatar",
+   "poster": "assets/myspace/avatar-player-poster.webp",
+   "spec": "Needs a transparent background so the player floats over the page: WebM (VP9 alpha) for Chrome, Edge and Firefox; a .mov with alpha (HEVC or ProRes 4444) is transparent in Safari only. MP4 shows as a solid box. Keep the player in the top half: the avatar card covers the bottom",
+   "size": "464×848, 5.0 s"
+  },
+  {
+   "path": "assets/myspace/chat-avatar.mp4",
+   "label": "My Space › Play › Chat: avatar video",
+   "poster": "assets/myspace/chat-avatar.webp",
+   "spec": "MP4 or MOV (H.264), portrait, loops, sound not used",
+   "size": "480×800, 12.9 s"
+  },
+  {
+   "path": "assets/watch/match.mp4",
+   "label": "Live match (video players, Watch Party, game-play stills)",
+   "poster": "assets/watch/player.webp",
+   "optional": true,
+   "spec": "MP4 or MOV (H.264), landscape 16:9, loops, sound not used. Plays in: Watch mini player, Video Player, Video Detail, Watch Party, and the game-play cards in Live Rooms (Watch Hall, Host Room). Nothing ships: until you upload one, these spots show their stills",
+   "size": "Optional"
+  },
+  {
+   "path": "assets/home/clip.mp4",
+   "label": "Clip (Clips View)",
+   "poster": "assets/home/clip-view.webp",
+   "optional": true,
+   "spec": "MP4 or MOV (H.264), loops, sound not used. Fills the screen (cropped to fit), so portrait 9:16 works best. Nothing ships: until you upload one, Clips View shows its still",
+   "size": "Optional"
+  }
+ ],
+ "unused": [
+  "assets/brand/app-logo.svg",
+  "assets/home/post-avatar.webp",
+  "assets/live/smallview.webp",
+  "assets/live/wp-guest.webp",
+  "assets/live/wp-host.webp",
+  "assets/logos/real-betis.png",
+  "assets/logos/sao-paulo.png"
+ ]
+}
