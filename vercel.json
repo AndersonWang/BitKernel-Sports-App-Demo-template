@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "VITE_APP_TITLE='Sports App Demo' npm run build",
+  "outputDirectory": "dist"
+}
