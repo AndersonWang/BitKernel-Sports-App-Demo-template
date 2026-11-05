@@ -54,3 +54,7 @@ Unknown names are reported and ignored. A WCAG AA contrast check runs on every c
 | Others | Pending |
 
 Hosted client links (`/c/{slug}`) are not built yet: they need the file-server details.
+
+## Published Boca Juniors demo
+
+Vercel serves `published/boca-juniors`, from the supplied Boca Juniors offline export dated November 5, 2026. This is a built demo; the editable source elsewhere in this branch predates this export.

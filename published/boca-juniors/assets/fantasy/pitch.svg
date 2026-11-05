@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="376.988" height="466" viewBox="0 0 376.988 466" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="pitch">
+<path id="background" d="M341.494 0.5H35.9941L0.99413 210.5V465.5H375.994V219.5L341.494 0.5Z" fill="#54B866" stroke="#54B866"/>
+<path id="dark pitch fill 1" d="M349.994 99.5H27.4941L32.9941 61H344.494L349.994 99.5Z" fill="#4EAA5E"/>
+<path id="dark pitch fill 2" d="M13.4941 188L20.4941 142.5H356.494L363.494 188H13.4941Z" fill="#4EAA5E"/>
+<path id="dark pitch fill 3" d="M0.99413 272L5.99413 240.5H368.994L376.494 272V296H0.99413V272Z" fill="#4EAA5E"/>
+<path id="dark pitch fill 4" d="M0.99413 424.5V358H375.994V424.5H0.99413Z" fill="#4EAA5E"/>
+<path id="pitch outline" d="M0.49413 270L39.9941 14.5H337.494L376.494 269" stroke="#F2FEFB"/>
+<path id="halfway line" d="M1.49413 334.5H375.994" stroke="#F2FEFB"/>
+<ellipse id="centre circle" cx="188.994" cy="334" rx="7" ry="5.5" fill="#F2FEFB"/>
+<mask id="stroke0_0_728" fill="white">
+<path d="M270.994 335.5C270.994 365.876 234.058 390.5 188.494 390.5C142.931 390.5 105.994 365.876 105.994 335.5C105.994 305.124 142.931 280.5 188.494 280.5C234.058 280.5 270.994 305.124 270.994 335.5Z"/>
+</mask>
+<path id="middle circle" d="M270.994 335.5C270.994 365.876 234.058 390.5 188.494 390.5C142.931 390.5 105.994 365.876 105.994 335.5C105.994 305.124 142.931 280.5 188.494 280.5C234.058 280.5 270.994 305.124 270.994 335.5Z" stroke-width="4" stroke="#F2FEFB" mask="url(#stroke0_0_728)"/>
+<path id="18 yard box" d="M139.494 65.5H66.9941L72.9941 15H303.994L309.994 65.5H239.494M139.494 65.5C168.994 84.5 212.994 83.5 239.494 65.5M139.494 65.5H239.494" stroke="#F2FEFB"/>
+<path id="8 yard box" d="M126.494 15L125.494 34.5H252.994L251.494 15H126.494Z" stroke="#F2FEFB"/>
+<ellipse id="pentalty spot" cx="188.994" cy="49" rx="3" ry="1.5" fill="#F2FEFB"/>
+</g>
+</svg>
