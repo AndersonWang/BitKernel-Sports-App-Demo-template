@@ -3,5 +3,18 @@
   "framework": null,
   "installCommand": "",
   "buildCommand": "",
-  "outputDirectory": "published/boca-juniors-client"
+  "outputDirectory": "published/boca-juniors-client",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "bitkernel-real-betis-client.vercel.app"
+        }
+      ],
+      "destination": "https://bitkernel-boca-juniors-client.vercel.app/:path*",
+      "permanent": true
+    }
+  ]
 }
