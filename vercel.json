@@ -3,5 +3,11 @@
   "framework": null,
   "installCommand": "",
   "buildCommand": "",
-  "outputDirectory": "published/sports-app-demo-template"
+  "outputDirectory": "published/sports-app-demo-template",
+  "rewrites": [
+    {
+      "source": "/README.md",
+      "destination": "/package-readme.md"
+    }
+  ]
 }
