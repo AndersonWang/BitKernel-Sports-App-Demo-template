@@ -1,8 +1,8 @@
-# Real Betis · Sports App Demo (client link)
+# Boca Juniors · Sports App Demo (client link)
 
 Exported 2026-11-09 · framework v1.1.0 · updated 6 Nov 2026 · export mw9g2swl
 
-**To publish:** upload everything in this folder to one folder on the web server (e.g. `/demo/real-betis/`), replacing the previous upload. Open demos switch to the new upload within about 30 seconds, at the next screen change.
+**To publish:** upload everything in this folder to one folder on the web server (e.g. `/demo/boca-juniors-client/`), replacing the previous upload. Open demos switch to the new upload within about 30 seconds, at the next screen change.
 
 **To open offline:** double-click `index.html`.
 
