@@ -6,6 +6,17 @@
   "outputDirectory": "published/boca-juniors-client",
   "redirects": [
     {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "bitkernel-real-betis-client.vercel.app"
+        }
+      ],
+      "destination": "https://bitkernel-boca-juniors-client.vercel.app/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
