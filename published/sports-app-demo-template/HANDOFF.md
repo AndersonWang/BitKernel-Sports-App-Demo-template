@@ -79,7 +79,7 @@ One source, three builds:
 | **Junior FC edition** (client demo) | `npm run build:junior` (`.env.junior`) | `dist-junior/` | Junior FC / junior-fc | Junior only | separate artifact "Junior FC Sports App Demo" (private until shared) |
 | **Boca Juniors edition** (client demo) | `npm run build:boca` (`.env.boca`) | `dist-boca/` | Boca Juniors / boca-juniors | Boca only | separate artifact "Boca Juniors Sports App Demo" (private until shared) |
 
-Editions ship only their own theme folder. The template build packs Boca's photos into one file (`assets/themes/boca-juniors-light.pack.js`, loaded when the theme is selected; `src/tokens/themePacks.js`, `PACKED` in `vite.config.js`) because the artifact host allows 511 files per artifact. A packed theme must stay well under 16 MB (videos included). Theme photo URLs carry `?v=<hash of the theme folder>` so a re-exported photo isn't served from cache, while an unchanged theme stays cached.
+Editions ship only their own theme folder. The template build packs Boca's photos into one file (`assets/themes/boca-juniors-light.pack.js`, loaded when the theme is selected; `src/tokens/themePacks.js`, `PACKED` in `vite.config.js`) because the artifact host allows 511 files per artifact. Only photos are packed: a packed theme's videos stay plain files in its folder (9 Nov), so the pack stays small and videos load only when played. Theme photo URLs carry `?v=<hash of the theme folder>` so a re-exported photo isn't served from cache, while an unchanged theme stays cached.
 
 **Theme engine** (from Conor's Junior pack, `patch/theme-engine.patch`, merged by hand where it conflicted). A theme mode can bring its own photos, text, league table and opening-animation colours:
 - `src/tokens/theme-assets.json`: per-theme image swaps; the copies live in `public/assets/themes/<theme>/<same path>`. `asset(path)` order: Configure upload → theme copy → shipped file.
@@ -122,7 +122,7 @@ Text on every screen was checked under Junior: no "Betis", "LaLiga", "Sevilla" o
 - Home player names outside the pitch view (match events, Goal Scorers) follow the theme squad by line-up slot (`PGS_pname` in `pregame.jsx`); off-line-up names use `players` in `theme-squads.json` (Boca: Antony → Paredes). Junior's match events now show Junior names too.
 - Fantasy player (Di Lollo), clip titles and the "Riquelme" live room: `before` rules in the edition text.
 - `shortName("Boca Juniors")` = Boca; `clubFC` adds no "FC" to "… Juniors".
-- `stills` in `theme-assets.json`: Boca has no live-room video, so Live / Default shows its card photo (fans at La Bombonera, "Insights and Stories from the Field") and your hosted room ("On the Pitch") an on-pitch photo, instead of the Real Betis footage. Upload a video in Configure › Videos to replace both.
+- 9 Nov: Boca media from Anderson's export `boca-junior-client_v1.1.0_2026-11-09.zip` merged into the theme: live-room video (`live/live-bg.mp4`, also used for the Home clip via `same`), avatar chat video (`myspace/chat-avatar.mp4`, re-encoded CRF 19), new home, away and third jerseys (`live/jersey-1..3.webp`, transparent, jersey-big = jersey-1 via `same`). The live-room `stills` fallback is removed. Its Watch match video was not used: it is the Junior vs Santa Fe footage.
 - CSS from his package for every theme: video progress bar and knob use the brand colour (were Betis green everywhere); long club names wrap in tables; wider coach surname.
 - 5 Nov optimisations applied: banner 3 has its own Boca file, theme videos count as set, storage key `bk-proto-config:boca-juniors:2`. His `?v=12` and `voting/../home/vote-1.webp` workarounds replaced by the build cache-buster and path normalising in `themedPath`.
 
@@ -158,6 +158,18 @@ Configure shows `Sports App Demo framework v1.1.0 · Updated 6 Nov 2026` at the 
 - Prefetch: once a screen settles, the images of the other screens in its journey load in the background (3 at a time, low priority; skipped on Data Saver and 2G) (`src/app/prefetch.js`).
 - Plan for a Play-only client link: Claude Doc "Play-only client link: plan" (https://claude.ai/artifact/XvrVmGygUyFM3tRdQUYXkp).
 
+## 4g. Template only, v1.2.0 (9 Nov)
+
+Decision (Anderson, 9 Nov): only the template is built and published. Junior FC and Boca are set up in it and delivered as client packages; their separate builds and owner artifacts (Junior v26, Boca v7) are frozen. The `build:junior` / `build:boca` scripts still work but are not used.
+
+- **Team data in every build:** `themeText.js` merges `src/editions/<id>/theme-text.json` for its own theme in every build (no more `VITE_EDITION` switch). The preset avatar (`presetAvatar()` in `myspace.jsx`, Andrés Pacheco) takes its league and club from the theme's copy (`fixture.league`, `team.main`); edits in Customize last until reload.
+- **Settings per theme** (`store.js`): `switchTheme(mode)` parks the current settings in localStorage `<key>:themes` and restores the other theme's, or `defaultFor(mode)` (client name = theme name without the mode). `pruneMedia` keeps uploads any parked theme still uses. Configure › Reset all resets the current theme only.
+- **Sections** (`src/config/sections.js`, Configure › Sections): `config.sections = { order, names, custom: [{ id, name, start }] }`; on/off stays in `config.flags`. A custom section opens on an existing screen and is enabled only if that screen's journey is on. New registry entries: `avatar` (listOnly: a shortcut to `avatar-play`; its screens belong to My Space) and `live-betting`, `sports-highlights` (`inDesign`, always off, greyed in Configure, never in Play).
+- **Client package naming** (`teamName`, `clientZipName` in `store.js`; `buildClientZip`): the package carries the theme's name without the mode (Default, Adult, Religion fall back to the client name): `Boca-Juniors_Demo_v1.2.0_Nov09.zip`, `<title>Boca Juniors_Demo</title>`, the same name in the gate, top bar, section list, crash screen and README. Desktop section list ends with `v<version> · Updated <export time>` (client page only).
+- **Thumbnail preview** (Configure › Images / Videos): `MediaPreview` in `Dashboard.jsx`.
+- **Safari / iPhone avatar** (`src/components/alphaVideo.jsx`): Safari and all iOS browsers play `myspace/avatar-player-alpha.mp4` (H.264, picture on top, mask below) through WebGL; make one with `sh scripts/stack-alpha.sh <avatar-player.webm>`. Boca's poster is now a frame of its own video. Uploaded avatar videos are not converted: in Safari they show without transparency.
+- **Configure buttons:** `.app-ghost` now renders as a light button (it was overridden by the primary button rule).
+
 ## 5. Status (screens built)
 
 | Journey | Built |
@@ -190,7 +202,7 @@ Unbuilt screens keep the header and app bar, so a journey never dead-ends.
 
 ## 7. Known issues / open questions
 
-- Boca (client to confirm): squad and coach names are placeholders per Conor; league table shows 15 of 30 clubs with placeholder points; real people (Riquelme, current players, star photos) need rights checks; no Boca live-room, match or clip video yet; live-room photos are 524–686 px tall, soft on a phone at 2x.
+- Boca (client to confirm): squad and coach names are placeholders per Conor; league table shows 15 of 30 clubs with placeholder points; real people (Riquelme, current players, star photos) need rights checks; no Boca live-match video yet (Watch, Watch Party; the export's match video was Junior's footage); live-room photos are 524–686 px tall, soft on a phone at 2x.
 
 - Safari compatibility (5 Nov, second pass): the Loading Screen's WebGPU shader now runs only in Chromium browsers (Chrome, Edge, Arc, the Claude desktop app); Safari and Firefox get the same colours as a CSS-animated gradient. Every screen is wrapped in its own error guard: a screen that fails shows "This screen couldn't open" with Go back / Home and a "Copy error details" button (error, screen id, browser, stack), and the rest of the demo keeps working. `app.js` is loaded as `app.js?v=<build>` so browsers can't keep running an old cached bundle after a fix.
 - Fixed 5 Nov: "This screen hit an error · Type error" on Play in Safari 26 / iOS 26 (browsers with WebGPU but no ResizeObserver 'device-pixel-content-box'). The Loading Screen shader now falls back, and a shader failure can only hide the animation (the gradient stays), never crash the demo. Zips and source copies made before 5 Nov still have the bug.

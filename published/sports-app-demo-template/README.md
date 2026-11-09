@@ -1,6 +1,6 @@
 # Sports App Demo (template)
 
-Framework v1.1.0 · updated 6 Nov 2026 · template package: Real Betis by default, every theme available
+Framework v1.2.0 · updated 9 Nov 2026 · template package: Real Betis by default, every theme available
 
 This folder is a working demo of a football club app, built 1:1 from BitKernel's Figma prototype. It's a clickable demo, not a live app: no real accounts, payments, streams or live data.
 
@@ -18,7 +18,8 @@ This folder is a working demo of a football club app, built 1:1 from BitKernel's
 
 - The **template**: the demo every client version starts from. It opens as Real Betis by default.
 - **12 ready-made themes** (club colours) to switch between in Configure, including two client themes with their own photos and text: **Junior de Barranquilla** and **Boca Juniors**.
-- Use it to prepare a new club's demo, or to show the product in general. For a pitch to Junior FC or Boca, use their own package instead: it opens straight into that club.
+- Use it to prepare every club's demo: pick the club's theme in Configure, set it up, then **Export client package** for that club (named after it, e.g. `Boca-Juniors_Demo_v1.2.0_Nov09.zip`). Since 9 Nov, Junior FC and Boca are made this way: their separate builds are no longer updated.
+- Each theme keeps its own settings, so preparing Boca never changes Junior's package.
 
 ### Open the demo
 
@@ -31,14 +32,15 @@ Use Chrome, Edge or Safari (Firefox works, with a simpler opening animation).
 
 ### Present it
 
-- **Play** (top left) is the demo. Pick a journey on the left, such as Homepage, Fixtures or Live Rooms. **Restart this journey** takes you back to its first screen.
-- On a **phone**, the demo fills the screen like a real app, with no journey list. Hold the phone upright.
+- **Play** (top left) is the demo. Pick a section on the left, such as Homepage, Fixtures or Live Rooms. **Restart this journey** takes you back to its first screen.
+- On a **phone**, the demo fills the screen like a real app, with no section list. Hold the phone upright.
 - Most buttons work the way they do in Figma. A button with nowhere to go shows "Not part of this demo".
-- 11 journeys are included: Launch & Login, Homepage, Fixtures, Predictions, Live Rooms, Fantasy, Community, Watch, My Space & Profile, Voting, General Use.
+- 12 sections are included: Launch & Login, Homepage, Fixtures, Predictions, Live Rooms, Fantasy, Community, Watch, My Space & Profile, Avatar, Voting, General Use. Live Betting and Sports Highlights are being designed and will be added later.
+- The fan's avatar is already created (Andrés Pacheco, in the theme's league and club): **Avatar** opens it directly.
 
 ### Change the content yourself
 
-Open **Configure** (top left). You can change the club name and wording, any of the demo's photos, the videos, the colours and which journeys show. **CONFIGURATION.md** explains each section. Changes save in your browser only: nobody else sees them until you share them (below).
+Open **Configure** (top left). You can change the club name and wording, any of the demo's photos, the videos, the colours, and the sections: rename, reorder, show/hide or add them. **CONFIGURATION.md** explains each section. Changes save in your browser only: nobody else sees them until you share them (below).
 
 ### Share it
 
@@ -69,7 +71,7 @@ Read in this order: this file, then `HANDOFF.md`, then `CONFIGURATION.md`.
 | Item | Value |
 |---|---|
 | Package scope | Template: every theme, Real Betis by default · built, no source |
-| Framework | v1.1.0 (`package.json` "version"), last updated 6 Nov 2026 |
+| Framework | v1.2.0 (`package.json` "version"), last updated 9 Nov 2026 |
 | Build | `npm run build` → `dist/` |
 | Default theme mode | Real Betis |
 | Settings storage key | `bk-proto-config` (browser localStorage; uploads in IndexedDB `bk-proto-media`) |

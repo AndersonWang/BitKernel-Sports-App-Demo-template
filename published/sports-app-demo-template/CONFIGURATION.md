@@ -1,6 +1,6 @@
 # Configure guide · Sports App Demo (template)
 
-Framework v1.1.0 · updated 6 Nov 2026. Configure is the second tab at the top of the demo (or add `#configure` to the address). Everything here changes the demo **in your browser only**: nobody else sees your changes until you export them (section 9). The phone on the right is a live preview.
+Framework v1.2.0 · updated 9 Nov 2026. Configure is the second tab at the top of the demo (or add `#configure` to the address). Everything here changes the demo **in your browser only**: nobody else sees your changes until you export them (section 9). The phone on the right is a live preview.
 
 This is the template: it opens as **Real Betis**. To prepare a new club, pick or import its theme (section 3), then work down the sections.
 
@@ -8,12 +8,19 @@ This is the template: it opens as **Real Betis**. To prepare a new club, pick or
 
 | Field | What it does |
 |---|---|
-| Client name | Shown above the journey list in Play and used in exported file names |
+| Client name | Shown above the section list in Play and used for offline-copy file names. Client packages use the team name instead (section 9) |
 | Slug | Short name for files (letters, numbers, dashes), e.g. `real-betis` |
 
-## 2. Journeys
+## 2. Sections
 
-Turn a journey off to hide every way into it: its home sections, app-bar tab, buttons and its entry in the journey list. Homepage and General Use are hubs: switching them off only removes them from the list.
+The list beside the phone in Play (desktop; phones have no list). For each section:
+
+- **Tick box:** off hides the section and every way into it (home sections, app-bar tab, buttons). Homepage and General Use are hubs: off only removes them from the list.
+- **Name:** click it to rename. Empty = the Figma name.
+- **↑ ↓:** move it in the list. **Reset order and names** undoes both.
+- **+ Add section:** a name and the screen it opens on (any existing screen). It goes to the end of the list; **Remove** deletes it. A section can only open on a screen that exists: a new screen needs a Figma design first.
+
+**Avatar** is a shortcut to My Space › Play with a ready-made avatar (Andrés Pacheco, in the theme's league and club). **Live Betting** and **Sports Highlights** are being designed: they're listed greyed out and can't be switched on yet.
 
 | Journey | First screen | Note |
 | --- | --- | --- |
@@ -26,8 +33,11 @@ Turn a journey off to hide every way into it: its home sections, app-bar tab, bu
 | Community | Community / Teams |  |
 | Watch | Watch / Live Channel / Channels / Free |  |
 | My Space & Profile | My Space |  |
+| Avatar | My Space / Play | Shortcut to My Space › Play with the preset avatar; off removes only the shortcut |
 | Voting | Votiong Campaign Detail Page |  |
 | General Use | Notification | Hub: stays reachable when off |
+| Live Betting | - | In design: listed, can't be switched on yet |
+| Sports Highlights | - | In design: listed, can't be switched on yet |
 
 ## 3. Theme
 
@@ -46,7 +56,9 @@ Pick one of the 12 Figma modes, or **Import .json** with design tokens exported 
 - Junior de Barranquilla (Light)
 - Boca Juniors (Light)
 
-Two modes also bring their own photos, text, squad and league table: **Junior de Barranquilla (Light)** and **Boca Juniors (Light)**. Selecting one changes those across the demo.
+Two modes also bring their own photos, videos, text, squad and league table: **Junior de Barranquilla (Light)** and **Boca Juniors (Light)**. Selecting one changes those across the demo.
+
+**Each theme keeps its own settings**: client name, uploads, text, sections and password. Switching theme saves the current theme's settings and opens the other theme's (or fresh ones, named after the theme). So you can prepare Boca and Junior in the same browser without one leaking into the other's package.
 
 ## 4. Opening animation
 
@@ -54,7 +66,7 @@ The moving gradient on the Loading Screen. Each theme has its own three colours;
 
 ## 5. Images
 
-All 292 images in the demo, one accordion per page, with a search box. Each row shows where the image appears and its size. **Replace** changes it everywhere it appears; **Reset** returns to the default. Rows tagged **Theme photo** show the selected theme's own image.
+All 292 images in the demo, one accordion per page, with a search box. Each row shows where the image appears and its size. **Click a thumbnail** for a larger preview (as large as the window allows, never above its real size): ← / → step through the page, Esc closes it, and Replace and Reset work from there. **Replace** changes it everywhere it appears; **Reset** returns to the default. Rows tagged **Theme photo** show the selected theme's own image.
 
 Upload the same shape as the shipped file so nothing stretches or crops. Up to 10 MB per image.
 
@@ -85,7 +97,9 @@ The key images sit at the top of their page:
 
 ## 6. Videos
 
-Looping, muted background videos. MP4, MOV or WebM up to 60 MB. Use **MP4 (H.264)** so it plays in every browser: iPhone `.mov` files are usually HEVC, which Chrome on Windows and Firefox can't play. Each upload is checked and you're told if a browser can't play it.
+Looping, muted background videos. MP4, MOV or WebM up to 60 MB. Use **MP4 (H.264)** so it plays in every browser: iPhone `.mov` files are usually HEVC, which Chrome on Windows and Firefox can't play. Each upload is checked and you're told if a browser can't play it. Click a thumbnail to play it larger.
+
+The My Space avatar moves with a see-through background in every browser: Safari and iPhones play a special MP4 copy of the shipped avatars. An avatar video you upload yourself shows see-through in Chrome, Edge and Firefox only.
 
 | Video | Needed? | What to upload |
 | --- | --- | --- |
@@ -140,7 +154,7 @@ The phone on the right shows your changes as you make them. **Reset** above it r
 | Import config | Loads a `.json` someone exported |
 | Download offline copy (.zip) | The whole demo with your settings built in, Configure included. Opens from `index.html`, no internet needed. Includes these three guides. For your team |
 | **Client link › Password** | Optional, off by default. Set one and the client enters it once per browser. Only a scrambled form is stored: write it down. It stops people who only have the link; for stronger protection also use the web host's password option |
-| **Client link › Export client package (.zip)** | The Play-only page with your settings built in: no Configure, only this theme's photos. Upload everything inside it to the client's folder on the web server (or Vercel-style host), replacing the previous upload. Open client demos switch to it within about 30 seconds, at their next screen change. Also opens from disk |
+| **Client link › Export client package (.zip)** | The Play-only page with your settings built in: no Configure, only this theme's photos. Named after the team (the theme's name without "(Light)"), e.g. `Boca-Juniors_Demo_v1.2.0_Nov09.zip`; the browser tab reads "Boca Juniors_Demo" and the password screen, top bar, section list and README use the same name. The bottom of its section list shows the version and when it was exported, e.g. "v1.2.0 · Updated 9 Nov 2026, 14:30" (desktop only). Upload everything inside it to the client's folder on the web server (or Vercel-style host), replacing the previous upload. Open client demos switch to it within about 30 seconds, at their next screen change. Also opens from disk |
 
 The client link never shows your unsaved work: it changes only when you export and upload. Each export has its own id (in `publish.json` and the zip's README), so you can tell which version a client has.
 
