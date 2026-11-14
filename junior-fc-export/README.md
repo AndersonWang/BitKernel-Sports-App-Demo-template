@@ -1,6 +1,6 @@
 # Junior de Barranquilla_Demo (client link)
 
-Exported 2026-11-13 · framework v1.3.0 · updated 12 Nov 2026 · export mwe8dj01
+Exported 2026-11-14 · framework v1.3.0 · updated 13 Nov 2026 · export mwfz3vxv
 
 **To publish:** upload everything in this folder to one folder on the web server (e.g. `/demo/junior-de-barranquilla/`), replacing the previous upload. Open demos switch to the new upload within about 30 seconds, at the next screen change.
 
