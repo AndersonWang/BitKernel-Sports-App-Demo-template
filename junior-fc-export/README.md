@@ -1,11 +1,11 @@
 # Junior de Barranquilla_Demo (client link)
 
-Exported 2026-11-14 · framework v1.3.0 · updated 13 Nov 2026 · export mwfz3vxv
+Exported 2026-11-17 · framework v1.3.0 · updated 17 Nov 2026 · export mwl096i3
 
 **To publish:** upload everything in this folder to one folder on the web server (e.g. `/demo/junior-de-barranquilla/`), replacing the previous upload. Open demos switch to the new upload within about 30 seconds, at the next screen change.
 
 **To open offline:** double-click `index.html`.
 
-This demo asks for a password the first time it opens in a browser.
+No password: anyone with the link can open it.
 
 This is the Play-only page: there is no Configure here. Changes are made in the owner's copy and exported again.
