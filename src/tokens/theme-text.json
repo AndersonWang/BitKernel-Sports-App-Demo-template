@@ -1,0 +1,252 @@
+{
+ "$about": "Per-theme text. 'copy' = defaults for Configure copy fields under that theme (a value typed in Configure still wins). 'replace' = ordered find/replace applied to screen text with tx() while the theme is selected. Other themes are unaffected.",
+ "Junior de Barranquilla (Light)": {
+  "copy": {
+   "team.main": "Junior FC",
+   "competition": "2026 Liga BetPlay DIMAYOR · {team} · Group Stage",
+   "fixture.league": "Liga BetPlay DIMAYOR",
+   "fixture.venue": "Estadio Metropolitano Roberto Meléndez, Barranquilla",
+   "membership.name": "Junior Pass",
+   "opponent-1": "Millonarios",
+   "opponent-2": "Chicó FC",
+   "opponent-3": "Deportivo Cali",
+   "opponent-4": "Millonarios",
+   "home.match-1.opponent": "Millonarios",
+   "home.match-2.opponent": "Deportivo Cali"
+  },
+  "replace": [
+   [
+    "UEFA Champions League",
+    "Copa Libertadores"
+   ],
+   [
+    "UCL",
+    "Copa Libertadores"
+   ],
+   [
+    "Copa del Rey",
+    "Copa Colombia"
+   ],
+   [
+    "Copa del rey",
+    "Copa Colombia"
+   ],
+   [
+    "Europe",
+    "South America"
+   ],
+   [
+    "Béticos Live Hangout",
+    "Fan Live Hangout"
+   ],
+   [
+    "Verdiblanco Voices",
+    "Los Tiburones Voices"
+   ],
+   [
+    "The Verdiblanco Fans",
+    "The Junior Fans"
+   ],
+   [
+    "Green-and-white LaLiga passion",
+    "Red & white Liga passion"
+   ],
+   [
+    "Preparing for LaLiga action",
+    "Preparing for Liga action"
+   ],
+   [
+    "LaLiga through the fans’ eyes",
+    "Liga through the fans’ eyes"
+   ],
+   [
+    "Betis: LaLiga Build-Up",
+    "Junior: Liga Build-Up"
+   ],
+   [
+    "Real Betis's",
+    "Junior FC's"
+   ],
+   [
+    "Real Madrid",
+    "Millonarios"
+   ],
+   [
+    "Real Betis",
+    "Junior FC"
+   ],
+   [
+    "Betis's",
+    "Junior's"
+   ],
+   [
+    "BETIS",
+    "JUNIOR"
+   ],
+   [
+    "Betis",
+    "Junior"
+   ],
+   [
+    "2025-2026 LaLiga",
+    "2026 Liga BetPlay DIMAYOR"
+   ],
+   [
+    "2025-2026 La Liga",
+    "2026 Liga BetPlay DIMAYOR"
+   ],
+   [
+    "LaLiga 2025/2026",
+    "Liga BetPlay DIMAYOR 2026"
+   ],
+   [
+    "LaLiga",
+    "Liga BetPlay DIMAYOR"
+   ],
+   [
+    "La Liga",
+    "Liga BetPlay DIMAYOR"
+   ],
+   [
+    "Spain",
+    "Colombia"
+   ],
+   [
+    "2025/2026",
+    "2026"
+   ]
+  ]
+ },
+ "Boca Juniors (Light)": {
+  "copy": {
+   "team.main": "Boca Juniors",
+   "competition": "2026 Liga Profesional de Fútbol · {team} · Group Stage",
+   "fixture.league": "Liga Profesional de Fútbol",
+   "fixture.venue": "La Bombonera, Buenos Aires",
+   "membership.name": "Boca Pass",
+   "opponent-1": "River Plate",
+   "opponent-2": "Palmeiras",
+   "opponent-3": "Flamengo",
+   "opponent-4": "Newell's",
+   "home.match-1.opponent": "River Plate",
+   "home.match-2.opponent": "Santos"
+  },
+  "replace": [
+   [
+    "UEFA Champions League",
+    "Copa Libertadores"
+   ],
+   [
+    "UCL",
+    "Copa Libertadores"
+   ],
+   [
+    "Copa del Rey",
+    "Copa Argentina"
+   ],
+   [
+    "Copa del rey",
+    "Copa Argentina"
+   ],
+   [
+    "Europe",
+    "South America"
+   ],
+   [
+    "Béticos Live Hangout",
+    "Fan Live Hangout"
+   ],
+   [
+    "Verdiblanco Voices",
+    "Xeneize Voices"
+   ],
+   [
+    "The Verdiblanco Fans",
+    "The Boca Fans"
+   ],
+   [
+    "Green-and-white LaLiga passion",
+    "Blue & gold Liga passion"
+   ],
+   [
+    "Preparing for LaLiga action",
+    "Preparing for Liga action"
+   ],
+   [
+    "LaLiga through the fans’ eyes",
+    "Liga through the fans’ eyes"
+   ],
+   [
+    "Betis: LaLiga Build-Up",
+    "Boca: Liga Build-Up"
+   ],
+   [
+    "Real Betis's",
+    "Boca Juniors'"
+   ],
+   [
+    "Real Madrid",
+    "River Plate"
+   ],
+   [
+    "Real Betis",
+    "Boca Juniors"
+   ],
+   [
+    "Betis's",
+    "Boca's"
+   ],
+   [
+    "BETIS",
+    "BOCA"
+   ],
+   [
+    "Betis",
+    "Boca"
+   ],
+   [
+    "2025-2026 LaLiga",
+    "2026 Liga Profesional de Fútbol"
+   ],
+   [
+    "2025-2026 La Liga",
+    "2026 Liga Profesional de Fútbol"
+   ],
+   [
+    "LaLiga 2025/2026",
+    "Liga Profesional de Fútbol 2026"
+   ],
+   [
+    "LaLiga",
+    "Liga Profesional de Fútbol"
+   ],
+   [
+    "La Liga",
+    "Liga Profesional de Fútbol"
+   ],
+   [
+    "Spain",
+    "Argentina"
+   ],
+   [
+    "2025/2026",
+    "2026"
+   ]
+  ],
+  "cup": {
+   "opponents": [
+    "Palmeiras",
+    "Flamengo"
+   ],
+   "competition": "2026 Copa Libertadores · {team} · Group Stage",
+   "league": "Copa Libertadores"
+  },
+  "exact": {
+   "185 cm": "180 cm",
+   "33 yrs": "32 yrs",
+   "ESP": "ARG",
+   "Levante": "Lanús",
+   "Valencia": "Vélez Sarsfield"
+  }
+ }
+}

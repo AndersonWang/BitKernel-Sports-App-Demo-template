@@ -1,10 +1,15 @@
 {
   "name": "bitkernel-sports-app-demo",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "node scripts/build.mjs",
+    "build:junior": "node scripts/build.mjs junior",
+    "preview:junior": "vite preview --outDir dist-junior",
+    "build:boca": "node scripts/build.mjs boca",
+    "preview:boca": "vite preview --outDir dist-boca",
+    "preview": "vite preview",
+    "docs": "node scripts/docs.mjs"
   },
   "repository": {
     "type": "git",
@@ -15,6 +20,7 @@
   },
   "homepage": "https://github.com/AndersonWang/BitKernel-Sports-App-Demo-template#readme",
   "dependencies": {
+    "@fontsource/fira-sans-condensed": "^5.1.0",
     "@fontsource/noto-sans": "^5.1.1",
     "jszip": "^3.10.1",
     "react": "^18.3.1",

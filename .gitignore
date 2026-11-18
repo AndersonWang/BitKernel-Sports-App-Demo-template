@@ -1,23 +1,12 @@
-# Dependencies and build output
-node_modules/
-dist/
-build/
-coverage/
-.vite/
-*.tsbuildinfo
+node_modules
+dist
+.DS_Store
+.ps-upload.json
+.plan-upload.md
+.plan-append.md
+dist-junior
+dist-boca
 
-# Local configuration and credentials
 .env
 .env.*
 !.env.example
-!.env.sample
-*.pem
-*.key
-*.p12
-*.pfx
-.npmrc
-
-# Logs and operating system files
-*.log
-.DS_Store
-__MACOSX/

@@ -1,0 +1,198 @@
+{
+ "$about": "Boca Juniors edition: team-specific extra text for the Boca theme, layered on src/tokens/theme-text.json. From Conor's Boca package (5 Nov); player/content swaps that his package hard-coded in shared screens live here as rules.",
+ "Boca Juniors (Light)": {
+  "copy": {
+   "team.full": "Club Atlético Boca Juniors",
+   "team.second": "Boca Juniors Reserva",
+   "team.fans": "Xeneizes",
+   "stadium": "La Bombonera",
+   "team.hashtags": "#BocaJuniors #DaleBoca",
+   "home.slogan": "¡Dale Boca!",
+   "player.name": "Leandro Paredes",
+   "watch.show": "Boca Tonight",
+   "watch.channel": "Boca TV",
+   "community.stars": "Leandro Paredes, Miguel Merentiel, Alan Velasco",
+   "fanclub.prefix": "Peña Xeneize",
+   "home.voting.title": "Reina Xeneize 2026",
+   "voting.candidate": "Sofía Reyes",
+   "user.name": "xeneize_azulyoro12"
+  },
+  "before": [
+   [
+    "Ciudad Deportiva Luis del Sol",
+    "Boca Training Ground, Ezeiza"
+   ],
+   [
+    "Chicureo",
+    "Mar del Plata"
+   ],
+   [
+    "Féminas",
+    "Femenino"
+   ],
+   [
+    "Tag a Bético",
+    "Tag a Xeneize"
+   ],
+   [
+    "💚🤍",
+    "💙💛"
+   ],
+   [
+    "the whole city turning green and white",
+    "the whole city turning blue and gold"
+   ],
+   [
+    "in green and white",
+    "in blue and gold"
+   ],
+   [
+    "Green-and-white pride",
+    "Blue-and-gold pride"
+   ],
+   [
+    "Aitor Ruibal never stops",
+    "Alan Velasco never stops"
+   ],
+   [
+    "Keep going, Aitor.",
+    "Keep going, Alan."
+   ],
+   [
+    "Watching Isco on the ball",
+    "Watching Paredes on the ball"
+   ],
+   [
+    "#Isco",
+    "#Paredes"
+   ],
+   [
+    "Isco 62′",
+    "Merentiel 62′"
+   ],
+   [
+    "Antony 12′",
+    "Paredes 12′"
+   ],
+   [
+    "Benito Villamarín Stadium Tour",
+    "La Bombonera Stadium Tour"
+   ],
+   [
+    "the Benito Villamarín",
+    "La Bombonera"
+   ],
+   [
+    "Reborn in Verdiblanco",
+    "Reborn in Azul y Oro"
+   ],
+   [
+    "Atlético de Madrid",
+    "Racing Club"
+   ],
+   [
+    "#ManquePierda",
+    "#DaleBoca"
+   ],
+   [
+    "#BeticosPorElMundo",
+    "#XeneizesEnElMundo"
+   ],
+   [
+    "in Seville",
+    "in Buenos Aires"
+   ],
+   [
+    "Valentín Gómez",
+    "Lautaro Di Lollo"
+   ],
+   [
+    "Gómez",
+    "Di Lollo"
+   ],
+   [
+    "Almería",
+    "Racing Club"
+   ],
+   [
+    "Lo Celso 48′ vs Villarreal",
+    "Velasco 48′ vs Independiente"
+   ],
+   [
+    "Bakambu 77′ vs Athletic",
+    "Flores 77′ vs San Lorenzo"
+   ],
+   [
+    "Gordillo on the 1977 Copa",
+    "Riquelme on the 2007 Libertadores"
+   ]
+  ],
+  "after": [
+   [
+    "vs Sevilla",
+    "vs River Plate"
+   ],
+   [
+    "0 Sevilla",
+    "0 River Plate"
+   ],
+   [
+    "Champions League",
+    "Copa Libertadores"
+   ],
+   [
+    "Béticos",
+    "Xeneizes"
+   ],
+   [
+    "Bético",
+    "Xeneize"
+   ]
+  ],
+  "lists": {
+   "fanclubs": [
+    [
+     "de La Boca",
+     "Buenos Aires",
+     "3,120",
+     true
+    ],
+    [
+     "de Palermo",
+     "Buenos Aires",
+     "2,140"
+    ],
+    [
+     "de Córdoba",
+     "Córdoba",
+     "1,860"
+    ],
+    [
+     "de Rosario",
+     "Rosario",
+     "980"
+    ],
+    [
+     "de La Boca",
+     "Buenos Aires",
+     "3,120"
+    ],
+    [
+     "de Mendoza",
+     "Mendoza",
+     "870"
+    ],
+    [
+     "de La Plata",
+     "La Plata",
+     "640"
+    ],
+    [
+     "New York",
+     "New York",
+     "444"
+    ]
+   ]
+  }
+ }
+}

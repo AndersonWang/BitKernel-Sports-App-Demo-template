@@ -1,56 +1,87 @@
-# BitKernel Sports App Demo
+# Sports App Demo (template)
 
-Configurable, client-brandable prototype built from the Figma file **Sports-Prototype** (`4rXmmKuEkeFmzMeZzUdd95`, page "Prototype (Real Betis) - 2nd Version") and the token library **📱 BitCore - Mobile Component Library** (`Cy5Hgz2f87ZSzLQG2WAeht`).
+Framework v1.3.0 · updated 12 Nov 2026 · template package: Real Betis by default, every theme available
 
-## Run
+This folder is a working demo of a football club app, built 1:1 from BitKernel's Figma prototype. It's a clickable demo, not a live app: no real accounts, payments, streams or live data.
 
-```bash
-npm install
-npm run dev        # internal preview + dashboard at http://localhost:5173
-npm run build      # production build in dist/
-npm run preview    # serve dist/ — needed for "Download client zip"
-```
-
-| URL | Who | What |
+| Read this | If you are | For |
 |---|---|---|
-| `#/` | Design / BD | Phone preview + journey list |
-| `#/dashboard` | Design / BD | Flags, theme, images, copy, packaging |
-| `#/client` | Design / BD | What the client will see (read-only) |
-| Client zip | Client | Opens from `index.html`, no server. Player only, curated journeys, settings locked |
+| **README.md** (this file) | Everyone | What the demo is, how to open and present it |
+| **CONFIGURATION.md** | BD team, designers | Changing names, photos, videos, colours and journeys in Configure, no code needed |
+| **HANDOFF.md** | Designers, developers, AI agents | How it's built, what's specific to this package, open questions, how to update it |
 
-## How it maps to Figma
+---
 
-| Layer | Source of truth | Where in code |
-|---|---|---|
-| Screens, layout, flows | Figma source file | `src/screens/`, `src/components/` — each screen has its Figma node id in `src/config/registry.js` |
-| Tokens (10 client modes) | Figma `Semantics` collection | `src/tokens/semantics.json` → CSS variables (`--colour-text-primary` = `colour/text/primary`) |
-| Client images, copy, flags | Dashboard (per client config) | `config.json` / packaged `config.js` |
+## Part 1 · For the business development team
 
-Rules: no layout edits in code that aren't in Figma. Every colour, spacing and radius uses a token variable.
+### What's in this package
 
-## Sync from Figma
+- The **template**: the demo every client version starts from. It opens as Real Betis by default.
+- **12 ready-made themes** (club colours) to switch between in Configure, including two client themes with their own photos and text: **Junior de Barranquilla** and **Boca Juniors**.
+- Use it to prepare every club's demo: pick the club's theme in Configure, set it up, then **Export client package** for that club (named after it, e.g. `Boca-Juniors_Demo_v1.3.0_Nov09.zip`). Since 9 Nov, Junior FC and Boca are made this way: their separate builds are no longer updated.
+- Each theme keeps its own settings, so preparing Boca never changes Junior's package.
 
-A design change is picked up when a **named version** ("Ready for prototype: …") is saved in Figma. The sync diffs changed frames against `SCREENS` in `src/config/registry.js`, updates code on a branch, and opens a PR.
+### Open the demo
 
-Tokens are exported through the Figma Plugin API (the Variables REST API is Enterprise-only), regenerating `src/tokens/semantics.json`.
-
-## Theme JSON import
-
-The dashboard accepts any of these shapes, matched by Figma variable name:
-
-- this repo's format `{ modes: [...], vars: { "colour/brand/primary": [..per mode..] } }`
-- a flat map `{ "colour/brand/primary": "#008b28" }`
-- nested W3C / Tokens Studio `{ colour: { brand: { primary: { $value: "#008b28" } } } }`
-
-Unknown names are reported and ignored. A WCAG AA contrast check runs on every change.
-
-## Status
-
-| Journey | State |
+| Where | How |
 |---|---|
-| Login / Home | Homepage header, Fixtures carousel, app bar built. Other home sections are stand-ins sized to their Figma frames |
-| Fixtures | Fixtures (Upcoming) built. Results, Leagues, Pre-game Stats pending |
-| Predictions | On hold until links are sorted |
-| Others | Pending |
+| Online | https://claude.ai/artifact/6c88f9EUBmrX3kJbhPH8p7 (claude.ai, BitKernel organization) |
+| From this folder | Double-click `index.html`. It opens in your browser and works offline. |
 
-Hosted client links (`/c/{slug}`) are not built yet: they need the file-server details.
+Use Chrome, Edge or Safari (Firefox works, with a simpler opening animation).
+
+### Present it
+
+- **Play** (top left) is the demo. Pick a section on the left, such as Homepage, Fixtures or Live Rooms. **Restart this journey** takes you back to its first screen.
+- On a **phone**, the demo fills the screen like a real app, with no section list. Hold the phone upright.
+- Most buttons work the way they do in Figma. A button with nowhere to go shows "Not part of this demo".
+- 13 sections are included: Launch & Login, Homepage, Fixtures, Predictions, Live Rooms, Fantasy, Community, Watch, My Space & Profile, Avatar, Voting, General Use, Sports Highlights. Live Betting is being designed and will be added later.
+- The fan's avatar is already created (Andrés Pacheco, in the theme's league and club): **Avatar** opens it directly.
+
+### Change the content yourself
+
+Open **Configure** (top left). You can change the club name and wording, any of the demo's photos, the videos, the colours, and the sections: rename, reorder, show/hide or add them. **CONFIGURATION.md** explains each section. Changes save in your browser only: nobody else sees them until you share them (below).
+
+### Share it
+
+| To share | Do this |
+|---|---|
+| Your settings with a teammate | Configure › Save & share settings › **Export config**, send the `.json`; they use **Import config** |
+| The whole demo, offline | Configure › **Download offline copy (.zip)**: anyone can open its `index.html` |
+| **A client link (Play only)** | Configure › Save & share › Client link › **Export client package (.zip)**, then upload everything inside it to the client's folder on the web server, replacing the previous upload. Open demos switch to the new upload within about 30 seconds. Optional password in the same place (off by default) |
+| The owner link | Ask the owner to share the online link (claude.ai: by invite) |
+
+The client link has no Configure: the client can't change anything, and nothing they do is kept after a reload. Your changes reach them only when you export and upload again.
+
+### Good to know
+
+- Images up to 10 MB and videos up to 60 MB can be uploaded. Use MP4 (H.264) for videos so they play in every browser.
+- Some names and numbers are placeholders (league points, some player names). Check HANDOFF.md › Open questions before showing details as facts.
+- Photos of real people need the club's permission before the demo is shown outside a pitch.
+- If a screen shows "This screen couldn't open", press **Copy error details** and send the text to the owner.
+
+**Owner:** Anderson Wang, BitKernel Design.
+
+---
+
+## Part 2 · For AI agents
+
+Read in this order: this file, then `HANDOFF.md`, then `CONFIGURATION.md`, then `AGENT-SETUP.md` (the prompt for starting a new client).
+
+| Item | Value |
+|---|---|
+| Package scope | Template: every theme, Real Betis by default · source code |
+| Framework | v1.3.0 (`package.json` "version"), last updated 12 Nov 2026 |
+| Build | `npm run build` → `dist/` |
+| Default theme mode | Real Betis |
+| Settings storage key | `bk-proto-config` (browser localStorage; uploads in IndexedDB `bk-proto-media`) |
+| Hosted at | https://claude.ai/artifact/6c88f9EUBmrX3kJbhPH8p7 (template; never publish a client over it) |
+
+**This is the source package.** `npm install`, then `npm run dev` (http://localhost:5173, `#play` and `#configure`). Builds: `npm run build` (template → `dist/`), `npm run build:junior` (→ `dist-junior/`), `npm run build:boca` (→ `dist-boca/`). Each build also writes its scope's README.md, CONFIGURATION.md and HANDOFF.md into its output folder (`scripts/docs.mjs`); `npm run docs` refreshes this folder's README.md and CONFIGURATION.md.
+
+Rules that apply to any change:
+
+1. Edit the source, never the built `assets/app.js`. A hand-edited bundle is lost on the next build.
+2. Layout stays 1:1 with Figma. Club-specific text and photos belong in theme data or Configure, not in screen code.
+3. Before replacing a published artifact, check for newer versions published by teammates and port their changes into the source first.
+4. After any change, update this package's HANDOFF.md (what changed, open questions) and, for a new release, bump `version` in `package.json`.

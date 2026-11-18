@@ -1,0 +1,3370 @@
+{
+ "assets/brand/club-crest.png": {
+  "bw": 225.4,
+  "bh": 186.1,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/community/antony.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/av-barolo.webp": {
+  "bw": 28.8,
+  "bh": 28.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/club-av.webp": {
+  "bw": 77.4,
+  "bh": 77.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/cucho.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/fc-banner.webp": {
+  "bw": 306.9,
+  "bh": 90,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/fc-live.webp": {
+  "bw": 308.7,
+  "bh": 342.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/community/fc-team-av.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/fc-up.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/isco.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/keyboard.webp": {
+  "bw": 337.5,
+  "bh": 249.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/community/post-1.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-2.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-3.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-4.webp": {
+  "bw": 306.9,
+  "bh": 350.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-5.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-6.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-7.webp": {
+  "bw": 152.1,
+  "bh": 172.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-8.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-9.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/community/post-video.webp": {
+  "bw": 306.9,
+  "bh": 419.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/goal-net.webp": {
+  "bw": 47.7,
+  "bh": 25.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fantasy/kit-arsenal.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-betis.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-brentford.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-brighton-gk.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-chelsea.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-ipswich.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-mancity.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-manutd.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-palace.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-spurs.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/kit-sunderland.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/lg-1.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/lg-2.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/lg-3.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/lg-4.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/lg-5.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/news-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/news-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fantasy/pitch.svg": {
+  "bw": 339.3,
+  "bh": 419.4,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fantasy/team.webp": {
+  "bw": 36.0,
+  "bh": 36.0,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/ball.svg": {
+  "bw": 13.2,
+  "bh": 13.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/leagues/copa.png": {
+  "bw": 43.2,
+  "bh": 43.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/fixtures/leagues/cwc.png": {
+  "bw": 45.2,
+  "bh": 45.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/leagues/laliga.png": {
+  "bw": 53.7,
+  "bh": 53.7,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/leagues/libertadores.png": {
+  "bw": 28.8,
+  "bh": 28.8,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/fixtures/leagues/ucl.png": {
+  "bw": 43.2,
+  "bh": 43.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/fixtures/net.png": {
+  "bw": 666,
+  "bh": 375.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/player/flag-esp.png": {
+  "bw": 16.2,
+  "bh": 16.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/player/league-crest.png": {
+  "bw": 24.8,
+  "bh": 24.8,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/player/player-cutout.png": {
+  "bw": 153,
+  "bh": 160.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/player/rm-levante.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/player/rm-valencia.png": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "fill",
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t1.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t10.png": {
+  "bw": 21.5,
+  "bh": 24.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/table/t11.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t12.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t13.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t14.png": {
+  "bw": 11.9,
+  "bh": 15.0,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/table/t3.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t4.png": {
+  "bw": 14.3,
+  "bh": 11.5,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/fixtures/table/t6.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t7.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/fixtures/table/t8.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/general/trend-1.webp": {
+  "bw": 97.2,
+  "bh": 54,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/general/trend-2.webp": {
+  "bw": 97.2,
+  "bh": 54,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/banner-1.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/home/banner-2.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/home/banner-3.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/home/banner-bottom-player.webp": {
+  "bw": 118.1,
+  "bh": 157.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/banner-bottom-texture.webp": {
+  "bw": 219.4,
+  "bh": 157.5,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/home/cl-1.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/cl-2.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/cl-3.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/cl-4.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/cl-5.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/cl-6.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/clip-1.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/clip-2.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/clip-3.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/clip-4.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/clip-view.webp": {
+  "bw": 337.5,
+  "bh": 730.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/creator-1.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/creator-2.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/creator-3.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/creator-4.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/creator-5.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/creator-6.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/liveroom-1-host.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/liveroom-1.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/lr-1.webp": {
+  "bw": 308.7,
+  "bh": 342.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/home/lr-2.webp": {
+  "bw": 308.7,
+  "bh": 405.5,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/home/lr-3.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/lr-4.webp": {
+  "bw": 308.7,
+  "bh": 169.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/home/lr-host-1.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/match-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/match-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/match-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/pa-1.webp": {
+  "bw": 147.1,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/pa-2.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/pa-3.webp": {
+  "bw": 147.1,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/pa-4.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/pa-5.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/photo-1.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/photo-2.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/photo-3.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/photo-4.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/home/rec-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/rec-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/rec-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/video-1.webp": {
+  "bw": 225.9,
+  "bh": 287.0,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/home/video-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/video-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vote-1.webp": {
+  "bw": 148.5,
+  "bh": 179.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vote-2.webp": {
+  "bw": 148.5,
+  "bh": 179.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vote-3.webp": {
+  "bw": 148.5,
+  "bh": 179.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vp-1.webp": {
+  "bw": 147.1,
+  "bh": 196.0,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/home/vp-2.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vp-3.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vp-4.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vp-5.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vp-6.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/home/vp-base.webp": {
+  "bw": 147.1,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/av-andrew.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/av-ferreirinha.webp": {
+  "bw": 28.8,
+  "bh": 28.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/av-lucas.webp": {
+  "bw": 18.0,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/card1.webp": {
+  "bw": 308.7,
+  "bh": 145.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/card2.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/card3.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/coin.png": {
+  "bw": 12.6,
+  "bh": 12.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/live/host-manolo.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/pk-a.webp": {
+  "bw": 168.7,
+  "bh": 215.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/pk-b.webp": {
+  "bw": 168.8,
+  "bh": 215.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/rose.webp": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/live/show1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/show2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/live/wp-video.webp": {
+  "bw": 337.5,
+  "bh": 216.9,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/logos/barcelona.png": {
+  "bw": 32.4,
+  "bh": 32.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/logos/elche.png": {
+  "bw": 64.8,
+  "bh": 64.8,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/logos/palmeiras.png": {
+  "bw": 32.4,
+  "bh": 32.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/logos/real-madrid.png": {
+  "bw": 64.8,
+  "bh": 64.8,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/membership/m1.webp": {
+  "bw": 73.3,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/membership/m2.webp": {
+  "bw": 73.3,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/membership/m3.webp": {
+  "bw": 73.3,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/membership/m4.webp": {
+  "bw": 73.3,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/membership/m5.webp": {
+  "bw": 73.4,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/membership/m6.webp": {
+  "bw": 73.4,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/membership/m7.webp": {
+  "bw": 73.4,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/membership/m8.webp": {
+  "bw": 73.4,
+  "bh": 109.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/art-1.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/art-2.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/art-3.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/avatar.webp": {
+  "bw": 90.0,
+  "bh": 90.0,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/banner-player.webp": {
+  "bw": 275.4,
+  "bh": 413.1,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/myspace/coin.svg": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/myspace/cw-1.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/cw-2.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/cw-3.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/histbar.svg": {
+  "bw": 90,
+  "bh": 2.7,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/myspace/ml-1.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/ml-2.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/ml-3.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/ml-4.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/myspace/points3d.svg": {
+  "bw": 19.8,
+  "bh": 19.8,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/myspace/post-1.webp": {
+  "bw": 306.9,
+  "bh": 419.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/myspace/sc-1.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/myspace/sc-2.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/myspace/sc-3.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/myspace/sc-4.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/photos/photo-1.webp": {
+  "bw": 337.5,
+  "bh": 730.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/predictions/rank/bronze.svg": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/predictions/rank/gold.svg": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/predictions/rank/p100.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/predictions/rank/p95.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/predictions/rank/p98.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/predictions/rank/p99.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/predictions/rank/silver.svg": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/brand/club-crest.png": {
+  "bw": 225.4,
+  "bh": 186.1,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/antony.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/club-av.webp": {
+  "bw": 77.4,
+  "bh": 77.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/cucho.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/fc-banner.webp": {
+  "bw": 306.9,
+  "bh": 90,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/fc-live.webp": {
+  "bw": 308.7,
+  "bh": 342.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/fc-team-av.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/isco.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-1.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-2.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-3.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-4.webp": {
+  "bw": 306.9,
+  "bh": 350.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-5.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-6.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-7.webp": {
+  "bw": 152.1,
+  "bh": 172.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-8.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-9.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/community/post-video.webp": {
+  "bw": 306.9,
+  "bh": 419.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fantasy/kit-betis.webp": {
+  "bw": 39.6,
+  "bh": 52.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fantasy/lg-3.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fantasy/lg-4.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fantasy/news-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fantasy/news-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fantasy/team.webp": {
+  "bw": 36.0,
+  "bh": 36.0,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/leagues/copa.png": {
+  "bw": 43.2,
+  "bh": 43.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/leagues/laliga.png": {
+  "bw": 53.7,
+  "bh": 53.7,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/leagues/ucl.png": {
+  "bw": 43.2,
+  "bh": 43.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/player/flag-esp.png": {
+  "bw": 16.2,
+  "bh": 16.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/player/league-crest.png": {
+  "bw": 24.8,
+  "bh": 24.8,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/player/player-cutout.png": {
+  "bw": 153,
+  "bh": 160.2,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/player/rm-levante.png": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/player/rm-valencia.png": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-central-cordoba.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-defensa.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-estudiantes.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-gimnasia-mendoza.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-independiente.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-instituto.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-lanus.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-newells.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-platense.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-riestra.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-san-lorenzo.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-talleres.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-union.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/fixtures/table/ar-velez.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/general/trend-1.webp": {
+  "bw": 97.2,
+  "bh": 54,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/general/trend-2.webp": {
+  "bw": 97.2,
+  "bh": 54,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/banner-1.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/banner-2.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/banner-3.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/banner-bottom-player.webp": {
+  "bw": 118.1,
+  "bh": 157.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/banner-bottom-texture.webp": {
+  "bw": 219.4,
+  "bh": 157.5,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/cl-1.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/cl-2.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/cl-3.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/cl-4.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/cl-5.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/cl-6.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/clip-1.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/clip-2.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/clip-3.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/clip-4.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/clip-view.webp": {
+  "bw": 337.5,
+  "bh": 730.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/creator-1.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/creator-2.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/creator-3.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/creator-4.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/creator-5.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/creator-6.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/liveroom-1-host.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/liveroom-1.webp": {
+  "bw": 337.5,
+  "bh": 730.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/lr-1.webp": {
+  "bw": 308.7,
+  "bh": 342.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/lr-2.webp": {
+  "bw": 308.7,
+  "bh": 405.5,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/lr-4.webp": {
+  "bw": 308.7,
+  "bh": 169.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/lr-host-1.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/match-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/match-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/match-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/pa-1.webp": {
+  "bw": 147.1,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/pa-2.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/pa-3.webp": {
+  "bw": 147.1,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/pa-4.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/pa-5.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/photo-1.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/photo-2.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/photo-3.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/photo-4.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/rec-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/rec-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/rec-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/video-1.webp": {
+  "bw": 225.9,
+  "bh": 287.0,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/video-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/video-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vote-1.webp": {
+  "bw": 148.5,
+  "bh": 179.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vp-1.webp": {
+  "bw": 147.1,
+  "bh": 196.0,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vp-2.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vp-3.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vp-4.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vp-5.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vp-6.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/home/vp-base.webp": {
+  "bw": 147.1,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/live/card1.webp": {
+  "bw": 308.7,
+  "bh": 145.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/live/card2.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/live/card3.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/live/host-manolo.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/live/live-bg.webp": {
+  "bw": 337.5,
+  "bh": 730.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/live/show1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/live/show2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/logos/barcelona.png": {
+  "bw": 32.4,
+  "bh": 32.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/logos/elche.png": {
+  "bw": 64.8,
+  "bh": 64.8,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/logos/real-madrid.png": {
+  "bw": 64.8,
+  "bh": 64.8,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/art-1.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/art-2.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/art-3.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/avatar.webp": {
+  "bw": 90,
+  "bh": 90.0,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/banner-player.webp": {
+  "bw": 275.4,
+  "bh": 413.1,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/cw-1.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/cw-2.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/cw-3.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/ml-1.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/ml-2.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/ml-3.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/ml-4.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/post-1.webp": {
+  "bw": 306.9,
+  "bh": 419.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/sc-1.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/sc-2.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/sc-3.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/myspace/sc-4.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/boca-juniors-light/photos/photo-1.webp": {
+  "bw": 337.5,
+  "bh": 730.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/predictions/rank/p100.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/predictions/rank/p95.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/predictions/rank/p98.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/predictions/rank/p99.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/voting/banner.webp": {
+  "bw": 389.0,
+  "bh": 482.8,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/boca-juniors-light/watch/og-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/watch/og-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/watch/rel-1.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/watch/rel-2.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/watch/rel-3.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/watch/rel-4.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/boca-juniors-light/watch/vd-banner.webp": {
+  "bw": 337.5,
+  "bh": 513,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/brand/club-crest.png": {
+  "bw": 225.4,
+  "bh": 186.1,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/antony.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/club-av.webp": {
+  "bw": 77.4,
+  "bh": 77.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/cucho.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/isco.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/post-1.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/post-2.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/post-3.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/post-6.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/post-7.webp": {
+  "bw": 152.1,
+  "bh": 172.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/post-9.webp": {
+  "bw": 99.9,
+  "bh": 114.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/community/post-video.webp": {
+  "bw": 306.9,
+  "bh": 419.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fantasy/lg-3.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fantasy/lg-4.webp": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fantasy/news-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fantasy/news-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fantasy/team.webp": {
+  "bw": 36.0,
+  "bh": 36.0,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/leagues/copa.png": {
+  "bw": 43.2,
+  "bh": 43.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/leagues/laliga.png": {
+  "bw": 53.7,
+  "bh": 53.7,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/leagues/ucl.png": {
+  "bw": 43.2,
+  "bh": 43.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/player/league-crest.png": {
+  "bw": 24.8,
+  "bh": 24.8,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-aguilas-doradas.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-alianza.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-america.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-bucaramanga.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-chico.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-cucuta.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-deportivo-cali.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-fortaleza.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-internacional-bogota.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-jaguares.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-llaneros.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-medellin.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-millonarios.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-nacional.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-once-caldas.png": {
+  "bw": 25.2,
+  "bh": 25.2,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-pasto.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-pereira.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-santa-fe.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/fixtures/table/co-tolima.png": {
+  "bw": 14.4,
+  "bh": 14.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/banner-1.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/banner-2.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/banner-3.webp": {
+  "bw": 302.4,
+  "bh": 180.0,
+  "fits": [
+   "cover, cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/banner-bottom-player.webp": {
+  "bw": 118.1,
+  "bh": 157.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/cl-1.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/cl-2.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/cl-3.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/cl-4.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/cl-5.webp": {
+  "bw": 147.1,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/cl-6.webp": {
+  "bw": 147.2,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/clip-1.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/clip-2.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/clip-3.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/clip-4.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/creator-1.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/creator-2.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/creator-3.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/creator-4.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/creator-5.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/creator-6.webp": {
+  "bw": 69.1,
+  "bh": 69.1,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/liveroom-1-host.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/liveroom-1.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/lr-1.webp": {
+  "bw": 308.7,
+  "bh": 342.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/lr-2.webp": {
+  "bw": 308.7,
+  "bh": 405.5,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/lr-4.webp": {
+  "bw": 308.7,
+  "bh": 169.3,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/lr-host-1.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/match-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/match-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/match-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/pa-1.webp": {
+  "bw": 147.1,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/pa-2.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/pa-3.webp": {
+  "bw": 147.1,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/pa-4.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/pa-5.webp": {
+  "bw": 147.2,
+  "bh": 194.4,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/photo-1.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/photo-2.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/photo-3.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/photo-4.webp": {
+  "bw": 146.7,
+  "bh": 110.7,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/rec-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/rec-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/rec-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/video-1.webp": {
+  "bw": 225.9,
+  "bh": 287.0,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/video-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/video-3.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/vp-1.webp": {
+  "bw": 147.1,
+  "bh": 196.0,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/vp-2.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/vp-3.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/vp-4.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/vp-5.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/vp-6.webp": {
+  "bw": 147.2,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/home/vp-base.webp": {
+  "bw": 147.1,
+  "bh": 87.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/live/card1.webp": {
+  "bw": 308.7,
+  "bh": 145.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/live/card2.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/live/card3.webp": {
+  "bw": 308.7,
+  "bh": 139.5,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/live/host-manolo.webp": {
+  "bw": 18,
+  "bh": 18,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/live/show1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/live/show2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/logos/barcelona.png": {
+  "bw": 32.4,
+  "bh": 32.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/logos/elche.png": {
+  "bw": 64.8,
+  "bh": 64.8,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/logos/palmeiras.png": {
+  "bw": 32.4,
+  "bh": 32.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/logos/real-madrid.png": {
+  "bw": 64.8,
+  "bh": 64.8,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/art-1.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/art-2.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/art-3.webp": {
+  "bw": 214.2,
+  "bh": 119.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/avatar.webp": {
+  "bw": 90,
+  "bh": 90.0,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/banner-player.webp": {
+  "bw": 275.4,
+  "bh": 413.1,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/cw-1.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/cw-2.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/cw-3.webp": {
+  "bw": 109.8,
+  "bh": 132.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/ml-1.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/ml-2.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/ml-3.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/ml-4.webp": {
+  "bw": 109.8,
+  "bh": 57.6,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/post-1.webp": {
+  "bw": 306.9,
+  "bh": 419.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/sc-1.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/sc-2.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/sc-3.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/myspace/sc-4.webp": {
+  "bw": 146.7,
+  "bh": 197.1,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/predictions/rank/p100.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/predictions/rank/p95.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/predictions/rank/p98.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/predictions/rank/p99.webp": {
+  "bw": 36.0,
+  "bh": 36,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/voting/banner.webp": {
+  "bw": 389.0,
+  "bh": 482.8,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/watch/og-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/watch/og-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/watch/rel-1.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/watch/rel-2.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/watch/rel-3.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/watch/rel-4.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/themes/junior-de-barranquilla-light/watch/vd-banner.webp": {
+  "bw": 337.5,
+  "bh": 513,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/banner-base.webp": {
+  "bw": 337.5,
+  "bh": 430.2,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/banner.webp": {
+  "bw": 389.0,
+  "bh": 482.8,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/voting/c1.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/c2.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/c3.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/c4.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/c5.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/c6.webp": {
+  "bw": 50.4,
+  "bh": 50.4,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/voting/sofia.webp": {
+  "bw": 337.5,
+  "bh": 407.7,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/av-1.webp": {
+  "bw": 28.8,
+  "bh": 28.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/av-3.webp": {
+  "bw": 28.8,
+  "bh": 28.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/ch-band.webp": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-cinemax.webp": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-combate.webp": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-espn.webp": {
+  "bw": 72.3,
+  "bh": 41.4,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-espn2.webp": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-espn3.webp": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-espn4.webp": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-sportv.svg": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/ch-sportv2.svg": {
+  "bw": 72.3,
+  "bh": 36.9,
+  "fits": [
+   "contain"
+  ]
+ },
+ "assets/watch/exit-fullscreen.svg": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/watch/og-1.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/og-2.webp": {
+  "bw": 225.9,
+  "bh": 127.8,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/player.webp": {
+  "bw": 337.5,
+  "bh": 172.8,
+  "fits": [
+   "cover/bg"
+  ]
+ },
+ "assets/watch/rel-1.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/rel-2.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/rel-3.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/rel-4.webp": {
+  "bw": 148.9,
+  "bh": 213.3,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/rotate-phone.svg": {
+  "bw": 21.6,
+  "bh": 21.6,
+  "fits": [
+   "fill"
+  ]
+ },
+ "assets/watch/vd-banner.webp": {
+  "bw": 337.5,
+  "bh": 513,
+  "fits": [
+   "cover"
+  ]
+ },
+ "assets/watch/video-still.webp": {
+  "bw": 337.5,
+  "bh": 730.8,
+  "fits": [
+   "fill"
+  ]
+ }
+}
